@@ -1,0 +1,1924 @@
+1,1,Helsfyr - Frognerseteren,1,1
+2,2,Ellingsrudåsen - Østerås,1,1
+3,3,Mortensrud - Kolsås,1,1
+4,4,Bergkrystallen - Vestli,1,1
+5,5,Vestli - Sognsvann,1,1
+11,11,Kjelsås/Holbergs plass - Majorstuen,0,1
+12,12,Kjelsås - Majorstuen,0,1
+13,13,Storo-Grefsen stasjon - Bekkestua,0,1
+17,17,Holbergs plass/Sinsen-Grefsen stasjon - Rikshospitalet,0,1
+18,18,Ljabru - Rikshospitalet/Bjørvika,0,1
+19,19,Ljabru - Majorstuen,0,1
+20,20,Galgeberg - Skøyen,3,1
+21,21,Helsfyr T - Tjuvholmen,3,1
+23,23,Simensbråten - Lysaker,3,1
+24,24,Brynseng T - Fornebu,3,1
+25,25,Lørenskog stasjon - Majorstuen,3,1
+28,28,Helsfyr T - Fornebu,3,1
+30,30,Nydalen - Bygdøy,3,1
+31,31,Grorud T - Snarøya,3,1
+32,32,Kværnerbyen - Voksen skog,3,1
+33,33,Ellingsrudåsen T - Filipstad,3,1
+34,34,Ekeberg hageby - Tåsen,3,1
+36,36E,Oslo bussterminal - Fornebu,3,1
+37,37,Helsfyr - Nydalen T,3,1
+41,41,Røa T - Sørkedalen/Sørkedalen via Wyllerløypa,3,1
+45,45,Majorstuen - Voksen skog,3,1
+46,46,Majorstuen - Ullerntoppen,3,1
+48,48,Tryvann vinterpark - Tryvann vinterpark,3,1
+51,51,Nydalen - Maridalen,3,1
+54,54,Tjuvholmen - Kjelsås stasjon,3,1
+56,56,Solemskogen - Nydalen,3,1
+58,58,Tveita T - Nydalen,3,1
+60,60,Tonsenhagen - Vippetangen,3,1
+61,61A,Solfjellet - Tveita T,3,1
+62,62,Grorud T- Grorud T ,3,0
+63,63,Grorud T- Grorud T ,3,0
+64,64A,Stovner T via Høybråten - Furuset T via Høybråten,3,1
+65,65,Stovner T - Furuset T,3,1
+66,66,Grorud T - Helsfyr T,3,1
+67,67,Lørenskog sentrum - Økern T,3,1
+68,68,Grorud T - Helsfyr T,3,1
+69,69,Lutvann - Tveita T,3,1
+70,70,Skullerud T - Rådhuset,3,1
+71,71A,Bjørndal - Mortensrud T,3,1
+72,72A,Dal - Mortensrud T,3,1
+73,73,Brenna - Holmlia stasjon,3,1
+74,74,Mortensrud T - Jernbanetorget,3,1
+75,75A,Nordstrand ring- Lambertseter T ,3,0
+76,76,Mortensrud T/Hauketo stasjon - Helsfyr T,3,1
+77,77,Bjørndal - Langteigåsen - Holmlia stasjon,3,1
+78,78A,Østensjø ring- Bryn senter ,3,0
+79,79,Åsbråten - Grorud T,3,1
+81,81,Fløysbonn - Rådhuset,3,1
+82,82E,Tårnåsen - Jernbanetorget,3,1
+83,83,Tårnåsen - Rådhuset,3,1
+84,84E,Myrvoll stasjon - Jernbanetorget,3,1
+85,85,Ulvøya - Jernbanetorget,3,1
+86,86,Kolbotn - Kolbotn,3,1
+87,87,Vevelstad stasjon - Hauketo stasjon,3,1
+100,100,Oslo bussterminal - Kjeller,3,1
+110,110,Oslo bussterminal - Lillestrøm,3,1
+120,120,Grorud T - Gullhaug-Tømte,3,1
+130,130,Skøyen - Sandvika,3,1
+140,140,Skøyen - Bekkestua,3,1
+150,150,Oslo bussterminal - Gullhaug,3,1
+160,160,Oslo bussterminal - Rykkinn,3,1
+201,201,Sandvika-Jong - Sandvika bussterminal,3,0
+202,202,Tanum-Sandvika-Henie Ons - Tanum-Sandvika-Henie Ons,3,1
+203,203,Sandvika-Skui - Sandvika-Skui,3,1
+204,204,Sandvika-Rykkinn-Kolsås - Sandvika-Rykkinn-Kolsås,3,1
+205,205,Sandvika-Gjettum - Sandvika storsenter ,3,0
+210,210,Sandvika - Bykrysset,3,1
+211,211,Bekkestua-Sandvika - Bekkestua-Sandvika,3,1
+212,212,Bekkestua-Østerås - Bekkestua-Østerås,3,1
+213,213,Bekkestua-Høvik - Bekkestua-Høvik,3,1
+214,214,Bekkestua-Ekern - Bekkestua-Ekern,3,1
+215,215,Sandvika - Kolsås,3,1
+216,216,Bekkestua-Kleivveien - Bekkestua-Kleivveien,3,1
+217,217,Slalåmveien - Lommedalen,3,0
+220,220,Bekkestua - Sandvika,3,1
+225,225,Fornebu - Bekkestua,3,1
+230,230,Østerås - Sandvika,3,1
+235,235,Østerås T - Østerås T,3,1
+240,240,Sandvika - Skui,3,1
+245,245,Sandvika - Tanum,3,1
+250,250,Oslo bussterminal - Slemmestad,3,1
+260,260,Ullevål stadion - Røyken,3,1
+265,265,Sandvika - Sandvika bussterminal,3,0
+270,270,Sandvika - Asker,3,1
+275,275,Vøyen - Asker,3,1
+280,280,Asker - Rustadgrenda,3,1
+281,281,Asker - Borgen,3,1
+285,285,Blakstad - Asker,3,1
+290,290,Blakstad - Asker,3,1
+291,291,Ånnerud-Vardåsen - Asker stasjon ,3,0
+292,292,Bondi-Blakstad-Bleikerko - Asker stasjon ,3,0
+293,293,Leangkollen-Konglungen - Asker stasjon ,3,0
+294,294,Asker-Borgen - Asker stasjon ,3,0
+295,295,Guibekken-Vollen - Guibekken-Vollen,3,1
+296,296,Asker-Slemmestad - Asker stasjon ,3,0
+297,297,Asker-Høn-Undelstad - Asker stasjon ,3,0
+298,298,Vettre-Konglungen - Vettre-Konglungen,3,1
+300,300,Oslo bussterminal - Blystadlia,3,1
+310,310,Vallerudtoppen - Lillestrøm,3,1
+316,316,Triaden - Triaden,3,1
+320,320,Lillestrøm - Garderåsen,3,1
+326,326,Fetsund - Fetsund,3,1
+330,330,Oslo bussterminal - Fjerdingby,3,1
+335,335,Lillestrøm - Branderud,3,1
+340,340,Lillestrøm - Skedsmokorset,3,1
+345,345,Blindern - Vardefjellet,3,1
+350,350,Enebakk kirke - Lillestrøm,3,1
+352,352,Helsfyr - Kløfta,3,1
+360,360,Lillestrøm - Sørumsand,3,1
+366,366,Sørumsand - Orredalen,3,1
+367,367,Sørumsand - Kvevli,3,1
+368,368,Sørumsand - Arteig,3,1
+370,370A,Blaker ring- Sørumsand stasjon ,3,0
+375,375,Oslo bussterminal - Strømmen,3,1
+380,380,Oslo bussterminal - Lillestrøm,3,1
+385,385,Lørenskog sentrum - Rotnes,3,1
+390,390,Oslo bussterminal - Kongskog,3,1
+395,395,Skillebekk - Nittedal stasjon,3,1
+396,396,Skillebekk - Slattum,3,1
+397,397,Dam - Nittedal stasjon,3,1
+400,400,Oslo bussterminal - Oslo lufthavn via Veståsen,3,1
+405,405,Ask - Nitteberg/Kløfta via Nitteberg,3,1
+410,410,Eltonåsen - Nannestad,3,1
+412,412,Helsfyr/Oslo bussterminal - Vallerudtoppen,3,1
+413,413,Nannestad bestilling - Nannestad bestilling,3,1
+415,415,Oslo bussterminal - Nesåsen,3,1
+417,417,Helsfyr - Ahus,3,1
+420,420,Jessheim stasjon - Maura,3,1
+422,422,Oslo bussterminal/Helsfyr - Vestvollen,3,1
+423,423,Helsfyr - Olavsgaard,3,1
+425,425,Oslo lufthavn - Kløfta,3,1
+430,430,Jessheim stasjon - Sundet,3,1
+431,431,Oslo bussterminal - Kjeller,3,1
+432,432,Eidsvoll stasjon - Eidsvoll stasjon/Råholt senter,3,1
+433,433,Sagasenteret - Ormlia,3,1
+434,434,Eidsvoll - Minnesund,3,1
+435,435,Blindern - Lillestrøm,3,1
+436,436,Jessheim - Jessheim,3,1
+437,437,Jessheim - Jessheim,3,1
+438,438,Jessheim - Jessheim,3,1
+439,439,Jessheim - Jessheim stasjon [bussterminal,3,0
+440,440,Oslo lufthavn - Nordkisa,3,1
+441,441,Årnes - Frilset,3,1
+442,442,Eidsvoll stasjon - Gullverket,3,1
+444,444,Frilset/Eidsvoll - Eidsvoll/Gullverket,3,1
+445,445,Eidsvoll verk - Rustad via Hurdal torg/Hurdal,3,1
+446,446,Jessheim stasjon - Vassenden via Hurdal torg,3,1
+447,447,Eidsvoll - Erikstellet,3,1
+449,449,Eidsvoll - Feiring,3,1
+450,450,Oslo lufthavn - Årnes,3,1
+451,451,Årnes - Dysterud,3,1
+452,452,Årnes - Årnes,3,1
+453,453,Runni via Årnes st. - Rånåsfoss,3,1
+455,455,Rånåsfoss - Årnes,3,1
+460,460,Kløfta - Herbergåsen,3,1
+461,461,Fenstad øst/Fenstad vest- Årnes stasjon ,3,0
+463,463,Bodung/Haga- Årnes stasjon ,3,0
+465,465,Årnes - Dysterud,3,0
+470,470,Lillestrøm - Eidslia,3,1
+471,471,Sørumsand - Trosterud,3,1
+477,477,Bjørkelangen stasjon - Sot,3,1
+478,478,Bjørkelangen stasjon - Klava gård/Skjeggenes,3,1
+479,479,Løken stasjon - Basmo/Studsrud,3,1
+480,480,Lillestrøm - Bjørkelangen,3,1
+485,485,Bjørkelangen - Hemnes,3,1
+490,490,Lillestrøm - Trøgstad,3,1
+500,500,Oslo - Drøbak,3,1
+506,506,Frogn vgs - Klommestein,3,1
+507,507,Dyrløkke - Elle,3,1
+510,510,Drøbak - Bøleråsen,3,1
+511,511,Ski stasjon - Stenfeltlia,3,1
+512,512,Ski stasjon - Ski terminal,3,0
+513,513,Ski stasjon - Greverud,3,1
+515,515,Ski stasjon - Ryen,3,1
+516,516,Vevelstad stasjon - Siggerud,3,1
+517,517,Ski stasjon - Siggerud,3,1
+520,520,Vinterbro - Ski næringspark/Vågsenteret,3,1
+521,521,Ski skole/Ski stasjon - TusenFryd,3,1
+522,522,Ski stasjon - Ski terminal,3,0
+523,523,Ski stasjon - Kjærnes,3,1
+524,524,Ski stasjon - Ås stasjon,3,1
+525,525,Ski stasjon - Kråkstad,3,1
+526,526,Ellingsrudlia-Ski stasjon - Ski terminal,3,0
+527,527,Ski stasjon - Skotbu,3,1
+530,530,Vestby stasjon - Pepperstad skog,3,1
+531,531,Hvitsten-Vestby stasjon - Hvitsten-Vestby stasjon,3,1
+532,532,Kjenn-Garder-Vestby stasjon - Vestby stasjon ,3,0
+535,535,Ås stasjon - Garder kirke,3,1
+536,536,Ås stasjon - Dyster/Eldor,3,1
+540,540,Sonsveien st. - Moss,3,1
+545,545,Vestby stasjon - Son,3,1
+550,550,Oslo - Enebakk kirke,3,1
+551,551,Dalefjerdingen - Enebakk kirke,3,1
+560,560,Nesoddtangen- Nesoddtangen ,3,0
+565,565,Nesoddtangen - Hellvik-Myklerud,3,1
+570,570,Nesoddtangen - Vinterbro,3,1
+575,575,Nesoddtangen - Fagerstrand,3,1
+576,576,Vinterbro - Fagerstrand,3,1
+1001,R1,Halden bussterminal - Halden bussterminal,3,1
+1002,R2,Halden bussterminal - Halden bussterminal,3,1
+1003,T3,Oslo bussterminal - Sarpsborg bussterminal,3,1
+1006,T6,Skjærhalden - Oslo bussterminal,3,1
+1009,T9,Oslo bussterminal - Ramstadkrysset,3,1
+1100,100,Moss bussterminal - Halden bussterminal/Fredrikstad bussterminal,3,1
+1110,110,Isebakke - Halden bussterminal,3,1
+1112,112,Halden bussterminal - Halden bussterminal,3,0
+1113,113,Holtet - Halden bussterminal/Søtholmen,3,1
+1114,114,Kornsjø - Halden bussterminal,3,1
+1115,115,Elgklev - Halden bussterminal,3,1
+1118,118,Sponvika - Halden bussterminal,3,1
+1121,121,Torpedalen - Halden bussterminal,3,1
+1123,123,Aremark skole/Kalerud veikryss - Kalerud veikryss/Fjell bru,3,1
+1124,124,Skodsberg - Aremark Kirke,3,1
+1131,131,Granerud - Torggata,3,1
+1132,132,Damholtet - Ørje busstorg,3,1
+1140,140,Ørje busstorg - Halden bussterminal,3,1
+1150,150,Sykehuset Kalnes - Halden bussterminal,3,1
+1200,200,Fredrikstad/Sarpsborg - Sarpsborg 109/Fredrikstad 111,3,1
+1201,201,Ullerøy - Karlsøya snuplass/Sarpsborg,3,1
+1202,202,Hasle via Hafslundsøy - Sarpsborg,3,1
+1203,203,Ise via Borg vgs/Surfellingen Hevingen - Sarpsborg,3,1
+1204,204,Sarpsborg - Sarpsborg bussterminal,3,0
+1205,205,Fredrikstad bussterminal - Sarpsborg bussterminal,3,1
+1207,207,Ise via Br.myr-Hevingen - Sarpsborg via Surfellingen,3,1
+1208,208,Sarpsborg bussterminal - Sarpsborg bussterminal,3,0
+1211,211,Råde stasjon - Kvastebyen via Sarpsborg,3,1
+1212,212,Løkkevika snuplass - Sarpsborg bussterminal,3,1
+1213,213,Syverstad - Sandbakken skole/Sarpsborg bussterminal,3,1
+1215,215,Sykehuset Kalnes - Blessom,3,1
+1221,8221,Skjønhaug torv - Skjønhaug torv,3,1
+1222,8222,Skjønhaug torv - Delingsrudveien,3,0
+1223,8223,Skjønhaug torv - Skjønhaug torv,3,0
+1224,8224,Skjønhaug torv - Trøgstad ungdomsskole,3,0
+1231,8231,Spydeberg skole - Spydeberg torv/Knapstad Bjaberg,3,1
+1232,8232,Hovin skole - Spydeberg torv,3,1
+1233,8233,Spydeberg torv - Spydeberg u. skole,3,0
+1241,8241,Askim stasjon - Vammeli,3,1
+1244,8244,Løken ungdomsskole - Ihlenveien,3,0
+1245,8245,Askim vgs. - Mysen stasjon,3,1
+1246,8246,Steinerskolen Askim - Askim stasjon,3,1
+1251,8251,Mysen stasjon - Hærland skole,3,1
+1252,8252,Mysen jb.st. - Tenor skole,3,0
+1253,8253,Askim stasjon/Mysen stasjon - Kirkefjerdingen skole,3,0
+1254,8254,Mysen jb.st./Mysen stasjon - Trømborg skole,3,0
+1255,8255,Eidsberg ungdomsskole - Mysen stasjon,3,1
+1256,8256,Askim stasjon/Mølla - Askim vgs./Mysen stasjon,3,1
+1257,Avd.,Mysen vgs. avd. Suse - Mysen vgs.,3,1
+1271,8271,Grønlund Skiptvet/Aamodt - Vestgård skole,3,1
+1272,8272,Doktorsvingen/Vestgård skole - Grønlund Skiptvet/Svae,3,1
+1281,8281,Rakkestad stasjon - Bergenhus skole,3,0
+1283,8283,Rakkestad ungdomsskole - Rakkestad stasjon,3,1
+1284,8284,Rakkestad ungdomsskole - Rakkestad stasjon/Revelsby,3,1
+1301,301,Vikerkilen - Fredrikstad stasjon,3,1
+1302,302,Vikane - Fredrikstad stasjon,3,1
+1303,303,Rødstoppen - Fredrikstad stasjon,3,1
+1305,305,Torpekrysset - Fredrikstad bussterminal,3,1
+1316,316,Moss bussterminal/Råde ungdomsskole - Greåker vgs./Karlshus Råde,3,1
+1350,350,Gluppe - Gluppe,3,1
+1351,351,Veumveien/Evenrødveien - Fredrikstad bussterminal/Fredrikstad stasjon,3,1
+1353,353,Oredalen Sandbækveien - Oredalen Sandbækveien,3,0
+1355,355,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1356,356,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1357,357,Sellebakk Skjærviken/Skjærviken snuplass - Fredrikstad bussterminal,3,1
+1358,358,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1359,359,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1361,361,Moum - Fredrikstad bussterminal,3,1
+1362,362,Torsnes - Fredrikstad bussterminal,3,1
+1363,363,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1364,364,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1365,365,Skjærhalden/Fredrikstad bussterminal - Skjærhalden,3,1
+1366,366,Papperhavn/Utgårdskilen - Bratte Bakke,3,1
+1372,372,Skjæløy - Fredrikstad bussterminal,3,1
+1373,373,Tomb kapell - Fredrikstad bussterminal,3,1
+1380,380,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1381,381,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1385,385,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1386,386,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1387,387,Fredrikstad bussterminal/Lahellemoen - Fredrikstad bussterminal,3,0
+1390,390,Farmanns gate/Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1391,391,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1392,392,Fredrikstad bussterminal - Fredrikstad bussterminal,3,0
+1400,400,Sarpsborg bussterminal/Halden bussterminal - Sarpsborg bussterminal/Moss bussterminal,3,1
+1403,403,Larkollen Sørli - Moss bussterminal,3,1
+1404,404,Gaustadkrysset - Moss bussterminal,3,1
+1406,406,Husebyskogen - Moss bussterminal,3,1
+1408,408,Nes - Moss bussterminal,3,1
+1410,M1,Øreåsen - Refsnes,3,1
+1414,414,Moss bussterminal - Moss bussterminal,3,0
+1415,415,Tronvik - Moss bussterminal,3,1
+1416,416,Moss bussterminal - Moss bussterminal,3,0
+1420,M2,Øreåsen - Kambo Kulpeveien,3,1
+1455,455,Skjønhaug torv - Askim stasjon,3,1
+1456,456,Skjønhaug torv - Mysen jb.st.,3,1
+1457,457,Skjønhaug torv/Risbråthekrysset - Skjønhaug torv,3,1
+1459,459,Solbergfoss - Askim stasjon,3,1
+1460,460,Askim posthus/Askim stasjon - Askim posthus,3,0
+1461,461,Askim posthus/Askim stasjon - Askim posthus,3,0
+1462,462,Askim stasjon - Askim stasjon,3,0
+1465,465,Skiptvet Askim Mysen stasjon - Rakkestad Mysen stasjon,3,1
+1467,467,Stuputveikrysset/Vestgård skole - Askim stasjon,3,1
+1468,468,Lund/Spydeberg torv - Askim stasjon,3,1
+1469,469,Askim stasjon - Askim stasjon,3,1
+1471,471,Svikebøl - Spydeberg torv,3,1
+1472,472,Delet - Spydeberg torv,3,1
+1473,473,Moss bussterminal - Askim stasjon,3,1
+1474,474,Svikebøl - Mysen vgs./Elvestad rv.120,3,1
+1480,480,Askim posthus - Askim stasjon,3,1
+1481,481,Mysen stasjon - Askim stasjon,3,1
+1482,482,Mysen stasjon - Torggata,3,1
+1483,483,Folkenborgveien - Mysen stasjon,3,1
+1485,485,Mysen stasjon - Halden bussterminal,3,1
+1486,486,Mysen jb.st. - Rakkestad stasjon,3,1
+1489,489,Rakkestad stasjon - Askim stasjon,3,0
+1491,491,Rakkestad stasjon - Rakkestad stasjon,3,0
+1493,493,Mysen vgs. - Holene bru/Kirkeng skole,3,1
+1501,501,Borg vgs./Borg vgs. Jellestad - Sarpsborg bussterminal,3,1
+1502,502,Greåker vgs. - Fredrikstad sentrum/Sarpsborg bussterminal,3,1
+1503,503,Grålum skole/Stenbekkkrysset - Stikkaåsen/Trøsken Minge,3,1
+1504,504,Hafslund skole - Hevingen/Nyveien trafo,3,1
+1506,506,Kurland skole - Svenskeberget Opsund,3,1
+1508,508,Strand - Storedalanlegget,3,1
+1510,510,Sarpsborg bussterminal - Trøsken Agnalt,3,1
+1511,511,Fredrik II vgs./Glemmen vgs. - Fredrikstad bussterminal,3,1
+1513,513,Hornes skole - Grimsøya/Løkkevika,3,1
+1515,515,Varteig skole - Hevingen/Hafslundbanen,3,1
+1518,518,Sandbakken skole - Tveter Nyveien/Ullerøy,3,1
+1519,519,Kalnes vgs. - Fredrikstad bussterminal,3,1
+1520,520,Missingmyr - Missingmyr,3,0
+1521,521,Steinerskolen Fredrikstad - Fredrikstad bussterminal,3,0
+1523,523,Jelsnes skole - Stenbekk Kurland,3,1
+1525,525,Karlshus skole - Idun,3,1
+1526,526,Råde ungdomsskole - Saltnes Handel/Tomb kapell,3,1
+1527,527,Sognshøgd - Sognshøgd,3,0
+1528,528,Haugeåsen ungdomsskole - Hauge Solli/Rostadneset,3,1
+1531,531,Floren skole - Hvaler ungdomsskole/Rød Asmaløy,3,1
+1532,532,Hvaler ungdomsskole - Vikerhavn/Spjær,3,1
+1533,533,Åttekanten skole - Spjær,3,1
+1534,534,Lunde skole - Tangen brygge/Kråkerøy kirke,3,1
+1535,535,Kråkerøy ungdomsskole - Alshus Tangen,3,1
+1536,536,Rødsmyra skole Kråkerøy - Kråkerøy kirke,3,1
+1537,537,Borge ungdomsskole - Torsnes skole/Kongstenhallen,3,1
+1539,539,Fredrikstad bussterminal - Østgårdfeltet,3,1
+1541,541,Fredrikstad sentrum - Gunnerød,3,1
+1543,543,Hauge skole/Haugeåsen ungdomsskole - Solengveien,3,1
+1544,544,Rekustad skole - Nesveien 18,3,1
+1545,545,Gressvik Ungdomsskole - Torpekrysset,3,1
+1546,546,Vikerkilen - Vikerkilen,3,0
+1547,547,Slevik skole - Vikane,3,1
+1548,548,Manstad skole - Skjønnerød/Engelsviken,3,1
+1549,549,Manstad Vestbygda - Skåra,3,1
+1550,550,Rostadneset - Rostadneset,3,0
+1563,563,Folkenborgveien - Ørje busstorg,3,1
+1580,580,Gjerstad - Moss bussterminal,3,1
+1602,602,Gressvik fergeleie - Gamlebyen fergeleie,4,1
+1611,8011,Halden bussterminal/Svalerødkilen - Berg skole,3,1
+1612,8012,Elgklev - Idd kirke,3,0
+1614,8014,Holtet - Prestebakke skole,3,1
+1615,8015,Moen - Veden,3,0
+1616,8016,Halden bussterminal - Risum,3,1
+1617,8017,Fjerdingene - Rødsberg skole,3,1
+1618,8018,Risum vgs. - Halden bussterminal,3,1
+1641,8041,Steinerskolen Moss - Refsnes,3,0
+1642,8042,Moss bussterminal/Malakoff vgs. - Folkestad snuplass,3,0
+1661,8361,Rygge kirke - Rygge kirke,3,0
+1663,8363,Rygge ungdomsskole - Rygge kirke,3,1
+1671,8371,Svinndal skole - Gjerstad snuplass/Lunderveien,3,1
+1672,8372,Våk skole - Nordre Augerød,3,1
+1673,8373,Kirkebygda skole - Svinndal,3,1
+1681,8381,Ringvollsenteret - Engsveien,3,1
+1682,8382,Hobøl ungdomsskole - Ringvoll Elvestad,3,1
+1700,2300,Sarpsborg bussterminal - Sarpsborg bussterminal,3,0
+1771,2371,Sarpsborg bussterminal - Sarpsborg bussterminal,3,1
+1781,2381,Øvre Tune - Sarpsborg bussterminal,3,1
+1799,799,Sarpsborg bussterminal - Fylkeshuset,3,1
+1801,801,Bakke - Bakke/Halden bussterminal,3,0
+1803,2403,Sarpsborg bussterminal - Sarpsborg bussterminal,3,1
+1818,818,Otteid - Ørje busstorg,3,0
+1819,819,Kallak øst/Marker skole - Ørje busstorg,3,1
+1820,2420,Sarpsborg bussterminal - Sarpsborg bussterminal,3,0
+1822,822,Båstad - Sæter,3,0
+1828,828,Rakkestad stasjon - Rakkestad stasjon,3,0
+1830,2430,Sarpsborg - Sarpsborg bussterminal,3,0
+1837,837,Svinndal - Svinndal,3,0
+1844,2444,Sarpsborg bussterminal - Sarpsborg bussterminal,3,0
+1850,2450,Fredrikstad stasjon - Sarpsborg bussterminal,3,1
+1860,2460,Fredrikstad stasjon - Sykehuset Kalnes,3,1
+1870,2470,Inspiria Science Center - Rødåsen,3,1
+1880,2480,Sykehuset Kalnes - Vaterland snuplass,3,1
+1890,2490,Inspiria Science Center - Langøyåsen snuplass,3,1
+2018,2018,Torstad skole - Torstad skole,3,1
+2019,2019,Sætre terrasse - Heggedal skole,3,0
+2031,31E,Tonsenhagen - Fornebu,3,1
+2056,56B,Grefsenkollen - Nydalen,3,1
+2061,61B,Bøler T - Tveita T,3,1
+2064,64B,Stovner T via Haugenstua - Furuset T via Haugenstua,3,1
+2069,69B,Tveita ring- Tveita T ,3,0
+2071,71B,Seterbråten - Mortensrud T,3,1
+2072,72B,Brenna - Mortensrud T,3,1
+2075,75B,Nordstrand ring- Lambertseter T ,3,0
+2077,77B,Asperudåsen - Holmlia stasjon,3,1
+2078,78B,Østensjø ring- Bryn senter ,3,0
+2080,80E,Åsbråten - Rådhuset,3,1
+2100,N100,Jernbanetorget - Lillestrøm,3,1
+2110,N110,Visperud - Lillestrøm,3,1
+2131,2131,Aursmoen skole - Haneborg skole,3,1
+2132,2132,Haneborg skole - Haneborg skole,3,0
+2133,2133,Korsmo - Korsmo,3,0
+2134,2134,Haneborg skole - Ulviken/Hedum,3,1
+2135,2135,Bjørkelangen vgs - Mokroken,3,1
+2137,2137,Bjørkelangen skole - Korsmo,3,1
+2138,2138,Bjørkelangen vgs - Trosterud,3,1
+2139,2139,Bjørkelangen skole - Bjørkelangen stasjon,3,1
+2140,2140,Liermosen - Liermosen/Spillhaug,3,0
+2141,2141,Løken - Løken,3,1
+2142,2142,Løken - Nærby-Løken,3,1
+2143,2143,Bråte skole - Løken,3,1
+2144,2144,Bråte skole - Løken,3,1
+2145,2145,Bråte skole - Stigen,3,1
+2146,2146,Bjørkelangen stasjon - Bjørkelangen,3,0
+2147,2147,Grasåsen - Grasåsen,3,0
+2148,2148,Bråte skole - Studsrud,3,1
+2150,2150,Bråte skole - Fylkesdele,3,1
+2151,2151,Setskog skole - Skjeggenes,3,1
+2160,160E,Nationaltheatret - Rykkinn,3,1
+2171,2171,Bjørkelangen vgs - Aursmoen/Garderåsen,3,1
+2172,2172,Bråte skole/Kjelle skole - Basmo,3,1
+2173,2173,Bjørkelangen - Killingmo/Lørenfallet,3,1
+2174,2174,Bjørkelangen - Studsrud,3,0
+2175,2175,Løken-Fjellsrud/Løken-Stensrud-Krokedal - Bjørkelangen vgs.,3,0
+2250,250E,Oslo bussterminal - Slemmestad,3,1
+2255,255E,Oslo bussterminal - Sætre,3,1
+2265,265E,Oslo bussterminal - Nesøya,3,1
+2370,370B,Sørumsand stasjon - Blaker ring,3,0
+2380,N380,Olavsgaard - Lillestrøm,3,1
+2390,390E,Oslo bussterminal - Hellerudhaugen,3,1
+2400,400E,Oslo bussterminal - Eltonåsen,3,1
+2470,470E,Oslo bussterminal - Bjørkelangen,3,1
+2480,480E,Oslo bussterminal - Bjørkelangen,3,1
+2490,490E,Oslo bussterminal - Trøgstad,3,1
+2500,500E,Oslo- Drøbak ,3,1
+2590,N590,Strømbråtenveien - Son,3,0
+2631,2631,Lørenfallet/Sørumsand stasjon- Sørum skole ,3,0
+2632,2632,Haugtun skole - Haugtun skole,3,0
+2633,2633,Sørumsand stasjon - Sandnesvegen,3,1
+2634,2634,Sørumsand stasjon - Hellne/Sørumsand stasjon,3,1
+2635,2635,Sandnesvegen - Sandnesvegen/Sørumsand stasjon,3,0
+2636,2636,Mork - Mork,3,0
+2639,2639,Frogner skole - Vardefjellet,3,1
+2640,2640,Frogner skole - Vesterskaun skole,3,1
+2642,2642,Sørumsand stasjon - Lørenfallet,3,1
+2671,2671,Sørumsand- Sundet ,3,0
+2672,2672,Sørumsand- Årnes stasjon ,3,0
+2673,2673,Sørumsand - Bjørkelangen,3,1
+2731,2731,Riddersand skole/Sundet - Garderåsen,3,1
+2732,2732,Riddersand skole - Tofsrud,3,1
+2733,2733,Dalen skole - Råmyra-Stigen,3,1
+2734,2734,Sundet - Krokedal,3,1
+2840,140E,Nationaltheatret - Hosle,3,1
+2850,150E,Nationaltheatret - Gullhaug,3,1
+2871,2871,Rælingen vgs - Ask terminal,3,0
+2872,2872,Rælingen vgs - Blystadlia,3,0
+2873,2873,Rælingen vgs - Ahus/Røykåsveien,3,1
+2931,2931,Dalefjerdingen - Enebakk kirke,3,1
+2932,2932,Enebakk kirke - Enebakk kirke,3,0
+2933,2933,Tangen bru - Tangen bru,3,0
+2977,77C,Krummedike - Holmlia stasjon,3,1
+3017,17B,Jernbanetorget - Holbergs plass,3,1
+3071,3071,Lørenskog sentrum - Lørenskog sentrum,3,0
+3072,72C,Maikollen - Mortensrud T,3,1
+3073,3073,Knatten - Vallerudtoppen,3,0
+3075,75C,Lambertseter ring- Lambertseter T ,3,0
+3077,77X,Bjørndal - Hauketo stasjon,3,1
+3080,80X,Holmlia stasjon - Jernbanetorget,3,1
+3081,81X,Kolbotn - Jernbanetorget,3,1
+3130,N130,Oslo bussterminal - Skui,3,1
+3131,3131,Tærudhallen - Vardeåsen,3,1
+3132,3132,Solberg - Åsenhagen skole,3,1
+3140,N140,Oslo bussterminal - Hosle,3,1
+3150,N150,Oslo bussterminal - Gullhaug,3,1
+3160,N160,Oslo bussterminal - Bykrysset via Rykkinn,3,1
+3172,3172,Lillestrøm terminal/Skedmo vgs - Hellerudhaugen/Rotnes,3,1
+3175,3175,Rælingen vgs/Lillestrøm - Knatten,3,0
+3176,3176,Skedsmo vgs- Rolvsrud ,3,0
+3240,240N,Sandvika - Skui,3,0
+3250,N250,Oslo bussterminal - Sætre via Asker,3,1
+3331,3331,Li skole - Holum skog,3,1
+3333,3333,Kirkeby skole - Hellerudhaugen,3,1
+3334,3334,Kongskog- Åneby ,3,0
+3335,3335,Kongskog - Bjertnes vgs,3,1
+3371,3371,Bjertnes vgs - Lillestrøm,3,1
+3372,3372,Bjertnes vgs - Hellerudhaugen,3,1
+3373,3373,Dam - Skillebekk/Velhuset,3,1
+3374,3374,Bjertnes vgs - Åsenhagen,3,1
+3390,N390,Jernbanetorget - Kongskog,3,1
+3400,N400,Eltonåsen terminal - Eltonåsen,3,0
+3431,3431,Ask - Ask terminal,3,0
+3531,3531,Algarheim skole - Støverud-Onsrud,3,1
+3532,3532,Nordkisa skole - Dagsjøveien,3,1
+3533,3533,Vesong - Borgen,3,1
+3534,3534,Borgen skole - Dragvoll,3,1
+3535,3535,Mogreina skole/Gystadmarka skole - Herregårdshuset sykehjem,3,1
+3537,3537,Kløfta-Åreppen skole - Gamleveien,3,1
+3538,3538,Jessheim-Nannestad vgs. - Jessheim-Nannestad vgs.,3,1
+3541,3541,Krokfoss - Krokfoss/Hannestad,3,0
+3542,3542,Gystadmarka skole - Algarheim skole,3,1
+3571,3571,Jessheim vgs. - Rønnegrinda,3,1
+3573,3573,Kloppeløkken - Østli,3,1
+3574,3574,Jessheim vgs. - Nybakk,3,1
+3575,3575,Jessheim - Kopperud,3,1
+3576,3576,Jessheim vgs. - Nordkisa skole,3,0
+3590,590E,Ryen T - Vestby via Vinterbro,3,1
+3601,FB1,Majorstuen - Oslo lufthavn,3,1
+3602,FB2,Oslo sentrum - Oslo lufthavn,3,1
+3603,FB3,Bekkestua - Oslo lufthavn,3,1
+3605,FB5,Hotel Scandinavia via Bislett - Oslo lufthavn,3,1
+3611,FB11,Fredrikstad - Oslo lufthavn,3,1
+3621,UE1,OSL-en - OSL-en,3,1
+3631,3631,Runni - Vormsund,3,1
+3632,3632,Runni - Auli senter,3,1
+3633,3633,Neskollen - Frilset,3,1
+3634,3634,Vormsund - Neskollen,3,1
+3635,3635,Holter - Rolstad-Holter,3,0
+3636,3636,Lillerommen - Arnestad-Lillerommen,3,0
+3637,3637,Fenstad skole - Rød,3,1
+3638,3638,Neskollen - Fallet,3,1
+3639,3639,Vormsund/Neskollen - Bjertnesgrenda/Dysterud bru,3,1
+3640,3640,Skogbygda skole - Sliperisvingen,3,1
+3641,3641,Skogbygda skole - Vormsund,3,1
+3643,3643,Neskollen - Simarud,3,1
+3644,3644,Neskollen - Fuglefjellet,3,1
+3650,3650,Sandbergveien - Sandbergveien,3,0
+3651,3651,Årnes møbler - Årnes Møbler,3,0
+3652,3652,Østgård skole - Seterstøa stasjon,3,1
+3655,3655,Lundsveien - Bodung,3,0
+3657,3657,Framtun skole - Årnes,3,1
+3658,3658,Framtun skole - Huserteiet,3,1
+3659,3659,Årnes - Auli mølle,3,1
+3671,3671,Runni - Auli senter,3,0
+3674,3674,Vormsund - Fallet,3,1
+3676,3676,Nes vgs - Bjørkelangen stasjon,3,0
+3677,3677,Hellne/Sørumsand - Sørumsand,3,1
+3681,3681,Hvam vgs - Årnes,3,1
+3682,3682,Hvam vgs - Lørenfallet,3,1
+3683,3683,Hvam vgs. - Munkerudteiet,3,0
+3684,3684,Aursmoen/Bjørkelangen - Hvam vgs.,3,0
+3686,3686,Neskollen - Neskollen,3,0
+3687,3687,Auli - Årnes,3,1
+3701,B1,Aker brygge/Rådhuset- Aker brygge ,4,0
+3705,B1x,Hovedøya - Aker brygge,4,1
+3731,3731,Vilberg skole - Frilset,3,1
+3734,3734,Vilberg us. - Vegamot,3,1
+3735,3735,Bårstad - Bårstad,3,0
+3736,3736,Skovseth- Langset skole ,3,0
+3737,3737,Langset skole - Vestheim,3,1
+3739,3739,Dal-Råholt-Finstad - Løkenvangen/Sneisrud,3,1
+3740,3740,Råholthallen - Venger,3,1
+3742,3742,Vilberg skole/Ås skole - Døli-Bårstad,3,1
+3743,3743,Råholthallen - Løkenvangen/Finstad-Eidsvoll,3,1
+3744,3744,Langset skole - Langset skole,3,0
+3771,3771,Vilberg skole - Jessheim,3,1
+3772,3772,Vilberg skole - Kloppeløkken,3,1
+3773,3773,Eidsvoll vgs. - Ask terminal,3,1
+3778,3778,Kirkebygda - Stubberud,3,1
+3780,3780,Rød - Eidsvoll stasjon,3,1
+3781,3781,Eidsvoll stasjon - Langset skole,3,1
+3783,3783,Eidsvoll stasjon - Langset skole,3,1
+3810,B10,Aker brygge - Nesoddtangen,4,1
+3811,B11,Lysaker - Nesoddtangen,4,1
+3820,B20,Aker brygge - Aker brygge,4,1
+3821,B21,Aker brygge - Son,4,1
+3831,3831,Preståsen skole - Finstad sameie,3,1
+3832,3832,Nannestad vgs. - Åmål,3,0
+3833,3833,Preståsen skole - Eltonåsen,3,1
+3834,3834,Nannestad vgs. - Åmål,3,1
+3835,3835,Ukkestadbrua - Ukkestadbrua,3,0
+3836,3836,Kringler Slattum - Kringlerdalen,3,1
+3837,3837,Fagerli sykehjem - Fagerli sykehjem,3,0
+3838,3838,Gunhildrud - Preståsen skoleplass,3,0
+3839,3839,Sandnesseter - Nannestad torg,3,0
+3851,SV,Svelvik/Verket- Verket ,4,0
+3852,BF,Horten/Moss- Moss ,4,0
+3853,TP,Torp /Oslo - Oslo bussterminal,3,0
+3871,3871,Nannestad vgs - Nittedal,3,1
+3872,3872,Nannestad vgs. - Eidsvoll stasjon,3,1
+3874,3874,Jessheim vgs. - Skedsmokorset,3,1
+3901,N1,Jernbanetorget - Ullerntoppen,3,1
+3902,N2,Lørenskog sentrum - Helsfyr T,3,1
+3903,N3,Skullerud T - Jernbanetorget,3,1
+3904,N4,Bergkrystallen T - Jernbanetorget,3,1
+3905,N5,Vestli T - Jernbanetorget,3,1
+3911,N11,Kjelsås - Majorstuen,3,1
+3912,N12,Kjelsås - Majorstuen,3,1
+3918,N18,Åsbråten - Kringsjå,3,1
+3930,N30,Jernbanetorget - Bygdøy,3,1
+3932,N32,Kværnerbyen - Rådhuset/Voksen skog,3,1
+3963,N63,Grorud T- Grorud T ,3,0
+3970,N70,Bjørndal - Jernbanetorget,3,1
+3981,N81,Fløysbonn - Rådhuset,3,1
+3983,N83,Fløysbonn - Rådhuset,3,1
+40001,B1,Sanderud - Hamar vest,3,1
+40002,B2,Furuberget - Bekkelaget,3,1
+40003,B3,Fossum - Stange,3,1
+40004,B4,Ingeberg - Sandvika,3,1
+40005,B5,Hamar skysstasjon- Smeby - Hamar skysstasjon ,3,0
+40012,12,Brumunddal/Hamar - Moelv,3,1
+40013,13,Jølstad - Brumunddal,3,1
+40014,14,Stavsjø - Brumunddal,3,1
+40015,15,Rudshøgda - Brumunddal,3,1
+40016,16,Brumunddal - Furnesåsen,3,1
+40017,17,Jessnes - Hamar,3,1
+40018,18,Stavsjø - Vea,3,1
+40019,19,Gaupen - Brumunddal,3,1
+40020,20,Stavsjø - Ringsaker vg. skole Brumunddal,3,0
+40022,4022,Austmarka - Kongsvinger,3,1
+40023,23,Brumunddal - Sanden,3,1
+40024,24,Brumunddal - Arneberg,3,1
+40025,25,Brumunddal - Brumunddal,3,1
+40026,26,Brumunddal - Brumunddal,3,1
+40029,4029,Hokåsen - Kongsvinger - Skinnarbøl,3,1
+40032,32,Løten - Hamar,3,1
+40033,33,Løten - Løten,3,1
+40034,34,Østre Skogbygd/Vestre Skogbygd - Løten,3,1
+40040,40,Hamar - Ormseter/Gåsbu,3,1
+40041,41,Gåsbu/Østås - Hamar,3,1
+40051,51,Espa - Stange,3,1
+40053,53,Støa - Stange,3,1
+40054,54,Vestbygda - Hamar - Stange,3,1
+40055,55,Hamar - Støa/Stange,3,1
+40101,101,Steinerskolen - Korsgård,3,0
+40102,102,Stange/Solvin skole - Åsvang,3,0
+40104,104,Romedal/Romedal u. skole - Høgåstorvet,3,1
+40105,105,Stange - Stange u. skole,3,0
+40106,106,Egerom - Solvin skole,3,0
+40108,108,Jønsberg/Stange vg. skole - Hamar,3,1
+40109,109,Romedal usk. - Fredsvold,3,1
+40110,110,Basterud - Arstad - Hamar/Hoberg - Arstad - Steinerskolen,3,1
+40111,111,Tangen - Stange vg. skole,3,1
+40112,112,Arneberg - Romedal/Arneberg - Hørsand - Stange - Jønsberg,3,1
+40113,113,Romedal - Hamar,3,1
+40114,114,Kolomoen - Romedal - Kolomoen/Kolomoen,3,1
+40115,115,Elverum - Stange,3,1
+40116,116,Hamar - Hedemarken friskole,3,1
+40117,117,Steinerskolen - Tangen,3,1
+40118,118,Hedemarken friskole - Ottestad stasjon,3,1
+40119,119,Ådalsbruk - Steinerskolen,3,0
+40135,135,Trondheim - Tynset,3,1
+40170,170,Elverum - Gjøvik,3,1
+40171,171,Ingen påstigning - Ingen påstigning,3,1
+40172,172,Hamar - Elverum,3,1
+40191,4191,Høgholen - Skarnes,3,1
+40192,4192,Ullern - Skarnes - Ullern - Dysterud,3,1
+40201,201,Stavsjø - Mengshol - Jølstad,3,1
+40202,202,Gaupen skole - Tangnesvegen - Hobrenna,3,1
+40203,203,Stavsjø - Nes skole,3,0
+40204,204,Stavsjø - Nes skole,3,0
+40205,205,Stavsjø/Helgøya - Nes skole,3,0
+40206,206,Stavsjø - Nes skole,3,0
+40207,207,Nes ungdomsskole - Bergsmeieriet,3,0
+40208,208,Brumunddal - Brumunddal Sjurstuvegen,3,0
+40209,209,Kylstad skole/Kirkenær skole - Furnes u.sk.,3,1
+40210,210,Brumunddal - Furnes u.sk.,3,1
+40211,211,Brumunddal - Brumunddal Sjurstuvegen,3,0
+40213,213,Kylstad skole/Hamar - Brumunddal,3,1
+40214,214,Moelv - Brumunddal/Ringsaker vgs via E6,3,1
+40216,216,Stange videregående skole - Brumunddal,3,1
+40218,218,Furnes u.sk. - Furnes u.sk.,3,1
+40219,219,Brumunddal - Furnes u. skole,3,0
+40220,220,Furnes u.sk. - Brumunddal,3,1
+40222,222,Furnes u.sk. - Stavsberg,3,1
+40223,223,Strandsagvegen - Ringsaker vgs/Brumunddal - Ringsaker vgs,3,1
+40232,4232,Risberget - Grue barne og ungdomsskole,3,1
+40233,4233,Grinder - Tjura - Grue barne og ungdomsskole,3,1
+40251,4251,Sønsterud - Linna - Sønsterud - Flisa,3,1
+40252,4252,Snålroa - Lotteriet - Søgård - Jara skole - Flisa,3,1
+40261,4261,Rølsåsen - Elverum,3,1
+40270,270,Lillehammer - Moelv,3,1
+40271,271,Lillehammer - Moelv,3,1
+40272,272,Moelv - Lillehammer,3,1
+40273,273,Brøttum - Lillehammer,3,1
+40274,274,Brøttum skole - Mesnalia,3,1
+40275,4275,Rølsåsen - Elverum,3,1
+40276,4276,Våler vestsiden - Elverum vestsiden,3,1
+40277,4277,Jømna - Elverum,3,1
+40282,4282,Lutnes - Trysil,3,1
+40283,4283,Osen - Rena - Osen - Trysil,3,1
+40284,4284,Eltdalen - Jordet,3,1
+40285,4285,Fuglamoen - Trysil,3,1
+40286,4286,Trysil - Sjøenden,3,1
+40290,290,Åsmarka - Moelv - Brøttum skole,3,1
+40291,4291,Rena- Rena skysstasjon ,3,0
+40292,4292,Rena - Osen,3,1
+40293,293,Ringsrunden - Moelv stasjon,3,0
+40294,294,Moelv - Næroset,3,1
+40296,4296,Rena - Deset - Hanstad,3,1
+40297,4297,Osdalen - Osen,3,1
+40301,301,Vang 1 - Imerslund,3,0
+40302,302,Vang 1B - Vang 1B,3,1
+40303,303,Vang 2 - Vang 2,3,1
+40304,304,Vang 2B - Vang 2B,3,1
+40305,305,Vang 3 - Åker,3,0
+40306,306,Vang 4 - Vang 4,3,1
+40307,307,Hamar katedralskole - Ener u.sk.,3,1
+40308,308,Vik - Greftenmoen - Hamar katedralskole,3,0
+40309,4309,Folldal - Atna - Koppang,3,1
+40310,310,Vangsåsen - Steinerskolen,3,0
+40312,312,Hamar skysstasjon - Hamar katedralskole,3,0
+40321,4321,Tynset - Brydalen - Rendalen - Koppang,3,1
+40322,4322,Fagertun skole - Lomnessjøen,3,1
+40341,4341,Femund - Elgå,3,1
+40342,4342,Engerdal skole - Snerta,3,1
+40343,4343,Sømådal - Engerdal skole,3,1
+40344,4344,Engerdal skole - Lillebo,3,1
+40350,350,Elverum/Løten direkte - Steinerskolen/Storhamar vgs.,3,1
+40361,4361,Vingelen - Tolga,3,1
+40362,4362,Drevsjø - Engerdal - Tynset,3,1
+40371,4371,Rendalen - Brydalen - Tynset - Brydalen - Rendalen - Koppang,3,1
+40372,4372,Alvdal - Folldal - Alvdal - Tynset,3,1
+40391,4391,Hjerkinn - Folldal,3,1
+40392,4392,Atna - Sollia - Folldal - Sollia - Atna - Koppang,3,1
+40400,400,Sand - Kongsvinger,3,1
+40410,410,Skarnes - Sand,3,1
+40411,4411,Tufsingdal - Os,3,1
+40412,4412,Os - Os stasjon,3,0
+40415,415,Skarnes - Kongsvinger,3,1
+40417,417,Høgholen - Skarnes,3,1
+40418,418,Finnholt - Disenå,3,1
+40420,420,Bruvoll Øst - Vest - Sand sentralskole,3,0
+40422,422,Bunes - Bunes - Sand,3,1
+40425,425,Sand - Nord-Odal u. skole,3,0
+40431,431,Skarnes - Gardvik,3,1
+40432,432,Løkker - Bruvoll Vest - Gardvik,3,1
+40433,433,Korsholen/Bunes - Sand - Gardvik,3,1
+40434,434,Knapper - Gardvik,3,1
+40440,440,Sander - Skarnes,3,1
+40442,442,Oppstad - Kvedalen - Skarnes Korsmo,3,0
+40443,443,Skarnes - Dysterud,3,1
+40450,450,Skarnes - Sander,3,1
+40452,452,Sander skole - Sander,3,0
+40453,453,Sander - Spetalen,3,1
+40460,460,Oppstad - Slåstad - Skarnes,3,1
+40470,470,Sand - Eidsvoll,3,1
+40471,471,Mo - Sand,3,1
+40500,500,Elverum - Kongsvinger,3,1
+40501,B1,Vangen - Bogeråsen - Rasta - Vennersberg,3,1
+40503,B2,Lia - Marikollen - Glåmlia - Skriverskogen,3,1
+40510,510,Svullrya - Kongsvinger,3,1
+40511,511,Roverud - Kongsvinger,3,1
+40515,515,Austmarka - Kongsvinger,3,1
+40516,516,Austmarka - Kongsvinger,3,1
+40517,517,Magnor/Austmarka - Kongsvinger - Brødbøl,3,1
+40520,520,Finnsrud - Skotterud,3,1
+40521,521,Nessjøen - Magnor - Ilag - Skott - Skotterud,3,1
+40522,522,Holsæter - Skotterud,3,1
+40523,523,Sjøenden - Skotterud,3,1
+40526,526,Dal stasjon/Fjellkrysset - Skotterud,3,1
+40527,527,Vestmarka - Skotterud,3,1
+40528,528,Skotterud/Vestmarka - Kongsvinger,3,1
+40530,530,Magnor skole - Solheim - Vilsbergvegen,3,1
+40540,540,Kongsvinger - Brandval skole,3,0
+40541,541,Brandval/Vestby - Kongsvinger,3,1
+40542,542,Overud/Granli - Kongsvinger,3,1
+40543,543,Sigernes/Strengelsrud - Kongsvinger,3,1
+40544,544,Edsberg - Kongsvinger,3,1
+40555,555,Roverud - Roverud,3,0
+40556,556,Kongsvinger - Skinnarbøl,3,1
+40557,557,Roverud - Smestadtjernet,3,0
+40558,558,Hokåsen - Lundersæter/Øyermoen - Hokåsen - Roverud/Kongsvinger,3,1
+40560,560,Kongsvinger - Brandval,3,1
+40561,561,Brandval - Hokåsen,3,1
+40562,562,Brandval - Hokåsen,3,0
+40565,565,Brandval - Lundersæter,3,1
+40568,568,Holmby-Øyermoen - Austmarka,3,1
+40575,575,Charlottenberg - Kongsvinger,3,1
+40581,581,Løvhaugsåa/Lintorpet - Kirkenær,3,1
+40610,610,Kongsvinger - Flisa,3,1
+40611,611,Sønsterud/Flisstranda - Flisa,3,1
+40612,612,Flisa/Våler vgs. - Kirketorget,3,0
+40620,620,Refset - Jansvegen - Grue barne og ungdomsskole,3,1
+40621,621,Risberget - Grue barne og ungdomsskole,3,1
+40622,622,Namnå - Grue barne og ungdomsskole,3,1
+40623,623,Grue barne og ungdomsskole - Grue aldershjem,3,0
+40627,627,Grinder - Tjura - Grue barne og ungdomsskole,3,1
+40630,630,Arneberg - Eierholen - Kvisler - Flisa,3,1
+40631,631,Snålroa - Lotteriet - Søgård - Flisa/Jara skole - Flisa,3,1
+40632,632,Gjesåsen - Flisa/Gjesåsen,3,1
+40634,634,Knappom - Velta/Knappom - Vermundsjøen - Sønsterud/Flisa,3,1
+40635,635,Åslia - Jammerdal - Åsnes u. skole,3,0
+40636,636,Nergrenda - Flisa,3,1
+40637,637,Solør Montessori sk - Flisa - Gjesåsen,3,1
+40640,640,Gjesåsen - Flisa - Sønsterud skole,3,0
+40646,646,Eierholen - Flisa - Jara skole,3,0
+40647,647,Jara skole - Jammerdal,3,1
+40648,648,Hof rundt - Jara skole - Hof rundt,3,1
+40649,649,Korsmokrysset - Hof rundt,3,0
+40650,650,Kvisler - Snålroa,3,0
+40651,651,Gjesåsen - Hasla - Braskereidfos - Gjesåsen - Flisa,3,1
+40660,660,Gisti/Hasla - Ranum - Nordhagen - Gjesåsen - Ranum - Våler,3,1
+40661,661,Bergesidevegen - Våler,3,1
+40662,662,Tøråsen - Braskereidfoss vest - Våler vgs - Våler,3,1
+40701,B1,Hanstad - Mastmoen - Søbakken,3,1
+40702,B2,Elverum torv - Elverum torv,3,0
+40708,708,Elverum torv - Elverum torv,3,0
+40709,709,Elverum torv - Elverum torv,3,0
+40710,710,Braskereidfoss vestsiden - Elverum vestsiden,3,1
+40711,711,Jømna - Melåsberget skole - Elverum,3,1
+40712,712,Hernes - Kirkeby/Kirkeby - Elverum,3,1
+40713,713,Styggberget - Elverum,3,1
+40714,714,Kynnberget - Elverum,3,1
+40715,715,Elverum ungdomsskole - Skogmuséet,3,0
+40716,716,Elverum u.skole - Solbærvegen snuplass,3,0
+40718,718,Sørskogbygda - Elverum,3,1
+40720,720,Indset - Søbakken skole,3,0
+40721,721,Elverum vgs. - Elverum skysstasjon via Glommen,3,1
+40725,725,Elverum ungdomsskole - Rustad,3,1
+40730,730,Hovindberget - Hernes skole,3,0
+40735,735,Bronka - Melåsberget skole,3,0
+40740,740,Hovindberget - Elverum vg. skole,3,0
+40745,745,Elverum vgs. - Løten stasjon,3,0
+40750,750,Rena/Slettås - Osen,3,1
+40751,751,Elverum - Femund/Trysil,3,1
+40752,752,Engerdal/Engerdal skole - Drevsjø/Elgå,3,1
+40754,754,Vestre Trysil skole - Gjevaldshaugen,3,1
+40755,755,Osdalen - Osen,3,1
+40757,757,Engerdal skole - Snerta,3,1
+40759,759,Sømådal - Engerdal skole,3,1
+40760,760,Engerdal skole - Lillebo,3,1
+40803,803,Trysil - Vestre Trysil skole/Tørberget,3,1
+40815,815,Trysil - Sjøenden,3,1
+40830,830,Lutnes - Trysil,3,1
+40853,853,Eltdalen - Jordet,3,1
+40854,854,Fuglamoen - Trysil,3,1
+40870,870,Trysil - Ljørdalen,3,1
+40871,871,Trysil - Linnes,3,1
+40875,875,Østby - Trysil,3,1
+40902,902,Elverum - Rena,3,1
+40911,911,Rena - Rena skole,3,0
+40915,915,Bergslia/Elverum østsiden - Rena østsiden/Rena Leir - Rena østsiden,3,1
+40951,951,Rena - Steinvik,3,1
+40952,952,Tynset - Koppang,3,1
+40953,953,Tynset - Elvål/Brydalen,3,1
+40954,954,Rena - Deset,3,1
+40955,955,Brekka/Tynset - Tynsetskolene,3,0
+40956,956,Folldal - Koppang/Atnbrua,3,1
+40957,957,Fagertun skole - Lomnessjøen/Sjølisand,3,1
+40964,964,Folldal - Rykroken,3,1
+40971,971,Folldal - Alvdal,3,1
+40972,972,Kvikne - Tynset,3,1
+40973,973,Alvdal - Alvdal/Strømmen,3,1
+40974,974,Alvdal - Alvdal stasjon,3,0
+40975,975,Tynset - Alvdal,3,1
+40976,976,Savalen - Tynset,3,1
+40977,977,Vingelen/Vingelen - Tynset - Tolga,3,1
+40978,978,Engerdal - Tynset,3,1
+40979,979,Tynset - Tynset,3,1
+40981,981,Røros - Tynset,3,1
+40982,982,Tynset - Tynset,3,1
+40983,983,Bubakken - Tynsetskolene,3,0
+40984,984,Ringbuss Tynset - Tynset bussterminal,3,0
+40990,990,Tynset østsiden - Tolga østsiden,3,1
+40991,991,Tufsingdal - Os,3,1
+40992,992,Os - Os stasjon,3,0
+51001,1,Jørstadmoen - Skysstasjonen,3,1
+51002,2,Søre Ål - Høgskolen Storhove,3,1
+51003,3,Ekromskogen - Vingnes,3,1
+51004,4,Vårsetergrenda - Høgskolen Storhove,3,1
+51005,5,Røyslimoen via Vårsetergrenda - Skysstasjonen,3,1
+51006,6,Skihytta-Skurvbrua - Øyresvika,3,1
+51007,7,Nybu - Skysstasjonen,3,1
+51008,8,Søre Ål bo- og servicesenter - Skårsetlia bo- og servicesenter,3,1
+51015,NX15,Oslo- Gjøvik ,3,1
+51031,31,Vindingstad - Kopperud - Åslundmarka,3,1
+51032,32,NTNU Kallerud - Sykehuset,3,1
+51033,33,Øverby - Tranberg - Østbyhøgda,3,1
+51034,34,Vindingstad - Kopperud - Sykehuset - Bjørnsveen,3,1
+51035,35,Tobru - Skysstasjonen,3,1
+51036,36,Skysstasjonen - Øverbymarka,3,1
+51037,37,Sykehuset - Nordbyen - Tongjordet,3,1
+51135,135,Fagernes - Gjøvik,3,1
+51136,136,Dokka - Lillehammer/Lillehammer - Sykehuset,3,1
+51142,142,Ringebu/Skjåk - Kun avstigning,3,1
+51150,150,Lunner - Gjøvik skysstasjon,3,1
+51151,151,Lillehammer Lokal - Gjøvik lokal,3,1
+51153,153,Oslo - Dokka,3,1
+51171,171,Gjøvik  - Hamar ,3,1
+51200,200,Skåbu - Lillehammer,3,1
+51201,201,Evenhaugen/Rinnvoll via Pålstuen - Bestilles. Lhmr om Pålstuen/Lillehammer via Pålstuen,3,1
+51210,210,Gausdal Arena via Tråsetstranda/Bestilles. Gausdal A om Kastrud - Lillehammer via Tråsetstranda,3,1
+51211,211,Skei/Svingvoll - Lillehammer,3,1
+51212,212,Svingvoll via Øverbygda/Bestilles.Svingvoll om Øverbygda - Lillehammer via Øverbygda,3,1
+51214,214,Tretten - Gausdal Arena/Svingvoll,3,1
+51220,220,Forsetskolene - Engjom skole,3,1
+51221,221,Follebu skole/Forsetskolene - Finnsvea,3,1
+51222,222,Gausdal Arena - Svatsum øvre,3,1
+51223,223,Lillehammer via Auggedal - Forsetskolene,3,0
+51224,224,Gausdal Arena - Engjom skole,3,1
+51230,230,Lillehammer skysstasjon - Lillehammer,3,0
+51231,231,Steinerskolen/Vingar skole - Lillehammer - Øyresvika,3,1
+51232,232,Lillehammer skysstasjon - NTG Lillehammer,3,1
+51233,233,Lillehammer - Lillehammer vgs Nord,3,1
+51234,234,Lillehammer skysstasjon - Buvollen,3,1
+51235,235,Åretta skole - Lillehammer,3,1
+51236,236,Ekromskogen via Sykehuset - Skysstasjonen,3,1
+51240,240,Bjørge - Båsen - Kvam - Oddvang/Tingberg via Bjørge - Ensby,3,1
+51241,241,Lillehammer - Winge,3,1
+51242,242,Hafjell - Tretten/Hafjell - Tingberg - Lillehammer,3,1
+51245,245,Hunderfossen - Hafjell,3,1
+51250,250,Tretten - Øyer u. skole Lundstad,3,0
+51251,251,Kvam - Tretten/Tretten - Mellomberg,3,1
+51252,252,Hundorp - Tretten,3,1
+51253,253,Tingberg - Øyer - Tingberg,3,0
+51254,254,Dulven - Aurvoll skole,3,1
+51255,255,Øyer u. skole Lundstad - Solvang skole - Øyer usk,3,0
+51260,260,Nordseter - Lillehammer skysstasjon,3,1
+51262,262,Sjusjøen - Lillehammer,3,1
+51269,269,Hinnkleivkrysset - Bestilles. Lillehammer,3,1
+51300,300,Kapp skole - Raufoss via sykehuset,3,1
+51301,301,Ringrute 1- Gjøvik skysstasjon ,3,0
+51302,302,Ringrute 2- Gjøvik skysstasjon ,3,0
+51303,303,Raufoss - Lena/Raufoss vgs - Gjøvik,3,1
+51304,304,Bjørnsveen ungdomsskole/Vardal ungdomsskole - Vindingstad - Skysstasjonen,3,1
+51305,305,Skysstasjonen - Gjøvik vgs/Kallerud - Rambekkmoen,3,1
+51310,310,Kapp - Gjøvik - Kapp - Fjellhaug,3,1
+51315,315,Lensbygda - Lena/Skreia - Lensbygda - Skreia,3,1
+51318,318,Åsmarka - Gjøvik - Åsmarka - Møllerhagen,3,1
+51330,330,Eina - Reinsvoll/Einavoll - Blili - Raufoss vg. skole,3,0
+51333,333,Åsmarka - Raufoss - Åsmarka - Eina,3,1
+51340,340,Skumsjøen - Skysstasjonen,3,1
+51343,343,Landåsen - Gjøvik,3,1
+51344,344,Tobru snuplass Odnesvegen - Tobru/Skysstasjonen,3,0
+51345,345,Vardal ungdomsskole - Grande skole - Seval - Bybrua,3,1
+51350,350,Snertingdalen - Gjøvik,3,1
+51351,351,Kallerud/Redalen - Snertingdal skole/Snertingdalen,3,1
+51352,352,Skysstasjonen - Torpa,3,1
+51353,353,Skysstasjonen - Snertingdalen,3,1
+51354,354,Gjøvik/Forbrukslaget - Snertingdal skole/Sykehuset,3,1
+51355,355,Storre - Forbrukslaget/Tranalia - Forbrukslaget - Snertingdal skole,3,0
+51360,360,Haug - Sogstadkrysset/Kapp - Haug - Sogstadkrysset - Bilitt,3,1
+51363,363,Lena skysstasjon - Grøtberg/Haug - Glemmestad,3,1
+51364,364,Skreia ungdomsskole/Smitborg - Lena ungdomsskole/Stange skole,3,1
+51366,366,Kapp - Lena ungdomsskole - Gjøvik/Starum,3,1
+51370,370,Reinsvoll skole/Raufoss vgs - Øverseth - Kolbu,3,1
+51371,371,Tandseter - Kolbu/Lena ungdomsskole - Kolbu,3,1
+51374,374,Kapp-Åsmarka-Raufoss industri - Åsmarka - Nordlia - Kapp,3,1
+51375,375,Lena - Kolbu skole/Møllerhagen - Lund,3,1
+51376,376,Hoffsvangen skole - Åsmarka - Raufoss - Kapp,3,1
+51381,381,Reinsvoll skole - Skjærdalen,3,1
+51382,382,Reinsvoll skole/Bøverbru skole - Hjelpstein - Holmbo,3,1
+51385,385,Reinsvoll skole - Børsvoll,3,1
+51390,390,Bestilles hos Gjøvik Taxi - Raufoss sentrum,3,0
+51391,391,Skyberg - Vang,3,1
+51392,392,Lundstein sk- Stokke - Gjøvik - Gjøvik skysstasjon ,3,0
+51393,393,Biri - Redalen skole,3,1
+51397,397,Biri - Biri sentrum Snertingdal auto,3,0
+51398,398,Biri sentrum - Biri sentrum Snertingdal auto,3,0
+51399,399,Bestilles hos Gjøvik Taxi - Biri sentrum nordgående,3,0
+51405,405,Skillestad/Sødorptunet - Harpefoss,3,1
+51407,407,Sødorp skole - Hågå,3,0
+51408,408,Vinstrahallen - Lyngstad,3,1
+51409,409,Vinstra skysstasjon - Skåbu,3,1
+51410,410,Sør-Fron ungdomsskole - Grindtorget/Lillehove,3,1
+51411,411,Kvam skole - Kvam - Feten/Kvam - Vinstra,3,1
+51412,412,Midtbygda sk - Sør-Fron usk - Grindtorget,3,1
+51413,413,Brynsbakken - Sødorptunet,3,1
+51414,414,Ottahallen - Hundorp - Kommunelokalet,3,1
+51419,419,Kvarvet - Ringebu - Sørheim omsorgssenter,3,1
+51420,420,Ringebu skysstasjon - Venabygd,3,1
+51421,421,Ringebu skysstasjon/Ringebu ungdomsskole - Dalen,3,1
+51422,422,Fåvang skole - Pålsrud,3,1
+51423,423,Dalen - Fåvang skole,3,1
+51424,424,Krekkevika - Ringebu skysstasjon,3,1
+51501,501,Bismo - Otta,3,1
+51502,502,Otta skysstasjon - Rustmo - Lalm - Otta,3,0
+51504,504,Staurust - Reppen - Skjåk usk/Bismo - Skjåk ungdomsskule,3,1
+51511,511,Liasanden - Lom,3,1
+51512,512,Garmo skule - Byre - Lom,3,1
+51513,513,Nyrnes/Grøna - Lom,3,1
+51514,514,Lom - Lom/Lundagrendi,3,0
+51521,521,Randsverk sag - Vågåmo,3,1
+51522,522,Skårvangen - Vågå - Vågåmo rutebilstasjon,3,0
+51524,524,Storviksroa - Vågåmo - Vågåmo rutebilstasjon,3,0
+51525,525,Kvarberg - Grev - Vågåmo - Vågåmo rutebilstasjon,3,0
+51526,526,Hanslin/Otta - Vågåmo,3,1
+51530,530,Bredi - Otta - Otta skysstasjon,3,0
+51531,531,Bjølstadmo - Murulikrysset,3,1
+51532,532,Høvringen - Haukliseter - Otta,3,1
+51533,533,Otta skysstasjon/Ottahallen - Dalelie,3,1
+51534,534,Nord-Sel kirke - Otta,3,1
+51535,535,Slettmoen - Otta skysstasjon,3,0
+51536,536,Tolstadåsen - Otta,3,1
+51538,538,Mysusæter - Otta,3,1
+51539,539,Vinstrahallen - Otta,3,1
+51541,541,Sæther - Øyi - Bjølstadmo - Bjølstadmo,3,0
+51542,542,Heidal skule/Leirflata - Bjølstadmo - Bjølstadmo,3,0
+51557,557,Vestsida-Solsida-Dovreskogen - Dombås skyssterminal om Burma,3,1
+51573,573,Nordberg skule - Dønfoss - Bismo,3,1
+51580,580,Otta skysstasjon - Bjorli,3,1
+51601,601,AMFI Valdres - Valdres Folkemuseum,3,1
+51602,602,Beitostølen - Fagernes,3,1
+51603,603,Tyinkrysset/Lærdal - Fagernes/Tyinkrysset,3,1
+51604,604,Gol stasjon - Fagernes,3,1
+51605,605,Huvustup/Lidar skule - Moane/Valdres vgs,3,1
+51606,606,Tyinkrysset - Høre skule/Åsvang - Høre,3,1
+51607,607,Sinderstølen - Fagernes skysstasjon,3,1
+51608,608,Røn skule - Rogndokken - Fagernes,3,1
+51610,610,Åstad - Fagernes skysstasjon,3,1
+51611,611,Bagn - Fagernes skysstasjon,3,1
+51612,612,Heggelund - Viste - Slidre skole/Røn skule - Brennabu,3,1
+51635,635,Moane - Fagernes skysstasjon,3,1
+51640,640,Valdres alpinsenter-Danebu - Valdres Folkemuseum,3,1
+51645,645,Bergaånvegen fv51 - Beitostølen Helsesportsenter,3,1
+51651,651,Røyslund - Dokka skysstasjon,3,1
+51655,655,Etnedal sentralskule - Etna camping,3,1
+51656,656,Etnedal rutebilstasjon/Etnedal sentralskule - Bjørgo,3,1
+51657,657,Bagn - Fagernes skysstasjon,3,1
+51658,658,Høljerast øst - Bagn/Bagn skole - Sør Aurdal usk,3,1
+51659,659,Bagn skole - Sør Aurdal usk/Fagernes skysstasjon - Høneren/Hedal barne- og ungdomsskole,3,1
+51661,231,Åsli - Lindlien,3,1
+51701,701,Hønefoss over Eggemoen - Toso over Eggemoen,3,1
+51703,703,Harestua via Mohagen - Brandbu via Mohagen,3,1
+51704,704,Hennung via Bjørklund skole - Brandbu,3,1
+51705,705,Haug - Brandbu via Bilden/Brandbu via Grymyr,3,1
+51707,707,Jaren - Gran via Amundrud,3,1
+51709,709,Grymyr - Gran,3,1
+51710,710,Riis - Gran stasjon - Gran stasjon,3,0
+51711,711,SÅS idrettsplass/Oppdalen kirke - Lunner rådhus via SÅS,3,1
+51715,715,Grua via Mylla - Lunner ungdomsskole/Lunner via Mylla,3,1
+51716,716,Lunner via Solheimstorget - Nesbakken - Sogn/Prestmoen - Sogn,3,1
+51717,717,Kanada - Gran via Kalvsjø - Lunner,3,1
+51719,719,Bjoneroa skole - Storgrunnvika,3,1
+51720,720,Vik - Jevnaker,3,1
+51722,722,Brandbuskolene - Amundrud/Einavoll,3,1
+51723,723,Tangen - Horn,4,1
+51747,747,Grenderute - Grenderute,3,1
+51748,748,Servicebuss - Servicebuss,3,1
+51800,800,Gjøvik - Hov,3,1
+51801,801,Dokka Bondlid - Hasvoldseter,3,1
+51803,803,Hov - Horn,3,1
+51805,805,Fryal skole/Hov rutebilstasjon - Gry,3,1
+51806,806,Fluberg bru - Fryal skole,3,1
+51810,810,Bestilles hos Hov Taxi - Bestilles hos Hov Taxi,3,1
+51815,815,Sandmoen - Dokka skysstasjon,3,1
+51820,820,Bruflat/Forbrukslaget - Dokka skysstasjon,3,1
+51821,821,Hugulia - Torpa barne- og ungdomsskole,3,1
+51822,822,Lundgård - Dokka skysstasjon,3,1
+51823,823,Torpa barne- og ungdomsskole - Dokka skysstasjon/Lundgård,3,1
+51824,824,Torpa barne- og ungdomsskole - Storre - Vinjar - Torpa skole,3,1
+51825,825,Dokka - Skartlia,3,1
+51851,851,Dokka skysstasjon - Dokka skysstasjon,3,1
+6003,3,Fjell - Kastanjesletta,3,1
+6004,4,Kniveåsen/Strømsø torg - Bragernes torg/Bera,3,1
+6005,5,Tors vei - Vinnes,3,1
+6015,15,Austad skog - Underlia,3,1
+6016,16,Mælen - Bragernes torg,3,1
+6021,21,Tolerud - Bragernes torg,3,1
+6022,22,Konnerud-Svingen - Bragernes torg,3,1
+6024,24,Konnerud skole/Konnerud-Eikerdelet - Bragernes torg,3,1
+6025,25,Gulskogen - Bragernes torg,3,1
+6035,35,Skoger kirke/Fjell - Bragernes torg,3,1
+6037,37,Stillerudveien/Kniveåsen - St.Hallvard Lier vgs,3,1
+6051,51,Mjøndalen stasjon - Drammen Busstasjon,3,1
+6052,52,Mjøndalen stasjon/Hokksund stasjon - Drammen Busstasjon,3,1
+6053,53,Åsen - Mjøndalen stasjon,3,1
+6054,54,Hovjordet - Mjøndalen stasjon,3,1
+6055,55,Hovjordet - Drammen Busstasjon,3,1
+6056,56,Eiker vgs/Åssiden vgs - Veiavangen skole,3,1
+6057,57,Hovjordet - Stenseth/Eknes skole,3,1
+6062,62,Sylling - Lierbyen bussterminal,3,1
+6063,63,Sylling - Drammen Busstasjon,3,1
+6064,64,Delekant - Sylling skole,3,1
+6065,65,Hornstua - Sylling skole,3,1
+6066,66,Baneveien - Lierbyen skole,3,1
+6071,71,Asker stasjon - Drammen Busstasjon,3,1
+6072,72,Lierskogen sentrum - Drammen Busstasjon/St.Hallvard Lier vgs,3,1
+6073,73,Lierskogen sentrum - Drammen Busstasjon,3,1
+6079,79,Bråtasvingen/Lierkroa - Gullaug skole/Høvik skole,3,1
+6081,81,Sætre Bussterminal - Drammen Busstasjon,3,1
+6082,82,Røyken stasjon - Katrineåsen,3,1
+6083,83,Røyken stasjon - Kleiverfeltet/Hyggen,3,1
+6084,84,Slemmestad - Bråset/Røyken Rådhus,3,1
+6085,85,Sætre Bussterminal - Holmsbu torg/Drammen Busstasjon,3,1
+6086,86,Sætre Bussterminal - Verket fergeleie,3,1
+6088,88,Sørensvingen - Sundbykrysset,3,0
+6089,89,Steinerskolen Hurum/Verket fergeleie - Verket fergeleie/Kana,3,1
+6100,100,Hønefoss/Vikersund - Drammen,3,1
+6101,101,Vikersund/Hokksund - Drammen,3,1
+6103,103,Åmot skysstasjon E/Åmot skysstasjon - Åmot skysstasjon E,3,1
+6104,104,Vikersund bussterminal - Åmot skysstasjon,3,1
+6105,105,Medalen/Bergshammeren - Åmot skysstasjon,3,1
+6106,106,Åmot skysstasjon - Grava,3,1
+6107,107,Prestfoss skole - Hiåsen,3,1
+6108,108,Nakkerud - Hønefoss sentrum/Tyristrand,3,1
+6109,109,Vikersund bussterminal - Ruud kapell/Vikersund bussterminal,3,1
+6110,110,Noresund - Krøderengarasjen/Krøderen,3,1
+6111,111,Korsbøen - Vikersund bussterminal,3,1
+6112,112,Stalsberg skole - Kjemperudmyra,3,1
+6113,113,Modum Bad/Åmot skysstasjon - Hatlekrysset,3,1
+6114,114,Vikersund bussterminal - Badstuvika,3,1
+6115,115,Hokksund stasjon - Kongsberg/Kongsberg via Gamleveien,3,1
+6116,116,Skotselv kryss - Hokksund stasjon,3,1
+6117,117,Ormåsen - Hokksund stasjon,3,1
+6118,118,Sundet - Hokksund stasjon,3,1
+6119,119,Sundet - Hokksund stasjon,3,1
+6120,120,Råen 1 - Darbu skole,3,0
+6121,121,Skotselv skole/Åmot skysstasjon E - Åmot skysstasjon,3,0
+6122,122,Vestfossen ungdomsskole - Sørby,3,1
+6123,123,Åmot skysstasjon E - Tingstad bru,3,0
+6132,132,Vestfossen u.skole - Ormåsen,3,1
+6133,133,Hokksund stasjon - Sundet/Hakavika,3,1
+6135,135,Hokksund skole - Torespæren øst,3,1
+6136,136,Hokksund stasjon/Skotselv skole - Hammerfoss,3,1
+6137,137,Hokksund stasjon - Hokksund stasjon,3,0
+6138,138,Skotsmoen - Røren skole,3,1
+6139,139,Hokksund stasjon/Drammen busstasjon D - Eiker vgs/Hokksund stasjon,3,1
+6169,169,Oslo bussterminal - Lierbyen bussterminal,3,1
+6200,200,Oslo-kun avstigning - Hønefoss sentrum,3,1
+6210,210,Sollihøgda - Hønefoss sentrum/Vik Senter,3,1
+6211,211,Vik - Hønefoss sentrum,3,1
+6212,212,Sundvollen sentrum - Hønefoss sentrum,3,1
+6213,213,Røyse skole - Sundvollen oppvekstsenter/Vik skole,3,1
+6214,214,Dalsbråten/Eikli skole- Hønefoss sentrum ,3,0
+6221,221,Jevnaker rutebilstasjon - Hønefoss sentrum,3,1
+6222,222,Oppenåsen - Hønefoss sentrum,3,1
+6223,223,Smeden via Klekken - Hønefoss sentrum,3,1
+6224,224,Smeden via Lisletta - Hønefoss sentrum,3,1
+6225,225,Viul - Hønefoss sentrum,3,1
+6228,228,Hvervenmoen - Morgenbøen,3,1
+6232,232,Hallingby nord - Hønefoss sentrum,3,1
+6233,233,Elsrud/Begnamoen øvre - Hønefoss sentrum,3,1
+6239,239,Nes skole - Hengslet,3,1
+6241,241,Noresund - Hønefoss,3,1
+6242,242,Øst-Veme - Hønefoss sentrum,3,1
+6243,243,Veien - Hønefoss sentrum/Begnamoen øvre,3,1
+6244,244,Bårnås - Øst-Veme,3,1
+6251,251,Tyristrand skole - Sandaker bru,3,1
+6252,252,Hølen - Sokna,3,1
+6253,253,Steinbekken/Fjellsmark - Sokna,3,1
+6254,254,Plogen/Ask - Hønefoss sentrum,3,1
+6260,260,Oslo Lufthavn Gardermoen - Sundvollen sentrum,3,1
+6301,301,Gol skysstasjon - Nesbyen,3,1
+6302,302,Flåskole - Leknes,3,1
+6303,303,Nes barneskole - Nesbyen stasjon/Svenkerud,3,1
+6304,304,Flå skole - Bårdsplassen,3,1
+6305,305,Flå sentrum - Stavn skole,3,1
+6306,306,Storeli Nedre - Nes barneskole,3,1
+6307,307,Stavn - Sokna,3,1
+6310,310,Rukke - Nesbyen stasjon/Nesbyen sentrum,3,1
+6320,320,Trillhus - Gol skysstasjon,3,1
+6321,321,Åsgardan - Gol skysstasjon,3,1
+6330,330,Geilo stasjon - Gol skysstasjon,3,1
+6331,331,Vika/Sunhov - Hagafoss,3,1
+6333,333,Geilo lufthavn Dagali - Geilo stasjon,3,1
+6334,334,Haugastøl/Ustaoset - Geilo stasjon,3,1
+6336,336,Bergsjø - Ål stasjon,3,1
+6337,337,Lienkrysset - Barskrind,3,1
+6338,338,Liatoppen - Ål torget/Ål idrettshall,3,1
+6339,339,Myking - Ål torget,3,1
+6343,343,Leveld sk./Votndalen - Ål sentrum,3,1
+6360,360,Tuv - Gol stasjon/Gol skysstasjon,3,1
+6361,361,Lio - Gol skysstasjon,3,1
+6362,362,Grøv Hemsedal - Trøimhallen,3,1
+6363,363,Feten snuplass - Trøimhallen,3,1
+6401,401,Lindbojordet - Gamlegrendåsen nord,3,1
+6403,403,Kongsberg knutepunkt - Skollenborg stasjon,3,1
+6405,405,Kongsberg Skisenter - Frydenbergåsen,3,1
+6407,407,Teknologiparken/Kongsberg knutepunkt - Gamlegrendåsen sør,3,1
+6410,410,Sagvoldbrua - Kongsberg,3,1
+6412,412,Krekling kryss - Kongsberg knutepunkt/Skollenborg stasjon,3,1
+6415,415,Kongsberg knutepunkt - Jondalen,3,1
+6417,417,Tunhovd snuplass - Øygarsgrend,3,1
+6418,418,Flesberg skole - Rebberud,3,1
+6419,419,Lampeland - Landerud,3,1
+6420,420,Rødberg/Geilo stasjon - Kongsberg,3,1
+6421,421,Grøterud - Kongsberg knutepunkt,3,1
+6422,422,Flesberg skole - Kongsberg knutepunkt C/Lampeland,3,1
+6423,423,Konningen/Lampeland - Laagveiskillet,3,1
+6424,424,Svene - Gutterud,3,1
+6425,425,Torsetlia - Rødberg skole,3,0
+6426,426,Veggli skole - Rollag sentrum,3,1
+6427,427,Veggli skole - Vorsethkrysset,3,1
+6428,428,Veggli skole - Rosatd,3,1
+6429,429,Uvdal skole - Fønstelien,3,1
+6430,430,Svarstad - Kongsberg,3,1
+6431,431,Haavengen - Kongsberghallen,3,0
+6434,434,Gamlegrendåsen skole - Kongsberg knutepunkt,3,0
+6435,435,Vikugrendi - Norefjord,3,1
+6436,436,Gran - Vonheim kryss/Hvål,3,1
+6904,4N,Nattbuss Kniveåsen - Bragernes torg,3,0
+6922,22N,Nattbuss Konnerud - Bragernes torg,3,0
+6951,51N,Nattbuss Mjøndalen - Drammen busstasjon,3,0
+7001,01,Kysthospitalet - Bromsveien,3,1
+7002,02,Holmestrand/Horten - Hvasser/Tenvik,3,1
+7003,03,Veldre - Tangen-Sandefjord,3,1
+7011,011,Kun avstigning - Kun avstigning,3,1
+7021,021,Holmestrand - Tønsberg,3,1
+7022,022,Verdens Ende - Sundene-Tønsberg,3,1
+7023,023,Tønsberg direkte - Horten direkte,3,1
+7042,42,Gullhaug/Hof - Holmestrand,3,1
+7043,43,Torud - Hof,3,1
+7044,44,Hof - Hvittingfoss/Sundbyfoss-Mossåsen,3,1
+7045,45,Holmestrand - Gullhaug,3,1
+7047,47,Holmestrand - Kirkevoll,3,1
+7070,70,Skoppum - Horten rutebilstasjon,3,1
+7071,71,Horten - Horten rutebilstasjon,3,0
+7072,72,Horten - Horten rutebilstasjon,3,0
+7074,74,Svinevold - Horten,3,1
+7075,75,Bakkenteigen - Skoppum,3,1
+7076,HTH,Sandefjord Lufthavn - Horten,3,1
+7091,91,Sande - Drammen,3,1
+7092,92,Svelvik - Svelvik ferjekai,3,0
+7093,93,Skafjellåsen - Sande,3,1
+7094,94,Holmestrand - Sande,3,1
+7096,96,Sande - Drammen,3,1
+7097,97,Skoger - Sande,3,1
+7100,100,Tønsberg - Tønsberg,3,1
+7109,109,Husøy - Tønsberg,3,1
+7110,110,Tønsberg - Tønsberg rutebilstasjon,3,0
+7111,111,Tønsberg - Tønsberg rutebilstasjon,3,0
+7113,113,Robergrønningen - Torød,3,1
+7114,114,Tønsberg - Tønsberg rutebilstasjon,3,0
+7115,115,Vallø - Tønsberg,3,1
+7116,116,Skallevold - Borgheim,3,1
+7117,117,Tønsberg - Tønsberg rutebilstasjon,3,0
+7118,118,Tønsberg - Tønsberg rutebilstasjon,3,0
+7120,120,Kirkevoll - Tønsberg,3,1
+7121,121,Hof - Tønsberg,3,1
+7124,124,Høyjord-Heimdal - Tønsberg,3,1
+7126,126,Kirkevoll - Tønsberg,3,1
+7129,129,Stokke stasjon - Tønsberg,3,1
+7130,130,Sørby/Bokemoa - Tønsberg,3,1
+7134,134,Sandefjord - Himberg-Furustad,3,1
+7135,135,Sandefjord - Hjertnespromenaden,3,0
+7138,138,Bogen-Råstad - Sandefjord,3,1
+7139,139,Sandefjord - Hjertnespromenaden,3,0
+7150,150,Andebu - Sandefjord,3,1
+7161,161,Gjekstad - Lasken,3,1
+7163,163,Helgerød-Solløkka - Sandefjord,3,1
+7168,168,Vøra-Tveitan - Sandefjord,3,1
+7172,172,Åbol - Ringkollen,3,1
+7173,173,Virik-Sjøstrand - Sandefjord,3,1
+7175,175,Sandefjord Lufthavn - Torp Stasjon,3,1
+7206,206,Helgeroa - Stavern-Larvik,3,1
+7207,207,Kjose - Larvik,3,1
+7208,208,Nevlunghavn - Hagalia,3,1
+7210,210,Nordbyen - Gon,3,1
+7214,214,Svarstad - Larvik stasjon,3,1
+7215,215,Svarstad - Larvik stasjon,3,1
+7302,5002,Horten - Nedre Langgate,3,0
+7330,5130,Stokke - Nedre Langgate,3,0
+7401,1100,Berg skole - Haga,3,0
+7402,1101,Berg skole - Jordet skole,3,0
+7403,1102,Thor Heyerdahl vgs - Helgeroa,3,0
+7404,1103,Thor Heyerdahl vgs - Larvik stasjon,3,0
+7405,1104,Thor Heyerdahl vgs - Guslandsvingen,3,0
+7406,206,Stavern-Larvik - Helgeroa,3,0
+7407,1106,Haga - Berg skole,3,0
+7408,1107,Helgeroa - Thor Heyerdahl vg. skole II,3,0
+7409,1108,Foldvik-Stavern - Jordet skole,3,0
+7410,1110,Helgeroa - Thor Heyerdahl vg. skole II,3,0
+7411,1111,Kjærstranda-Haga - Berg skole,3,0
+7412,1112,Sandefjord vgs - Sandefjord rutebilstasjon,3,0
+7413,221,Klåstadkrysset - Fjellvikveien,3,0
+7414,1116,Thor Heyerdahl vgs - Jåberg stasjon,3,0
+7415,221,Tjøllingvollen - Hemkrysset,3,0
+7416,1118,Tjøllingvollen - Hemkrysset,3,0
+7417,220,Thor Heyerdahl vgs - Eftang snuplass,3,0
+7418,220,Klåstadkrysset - Eftang snuplass,3,0
+7419,1121,Thor Heyerdahl vgs - Sandefjord rutebilstasjon,3,0
+7420,1122,Tjøllingvollen - Santra,3,0
+7421,1123,Hem - Tjodalyng skole,3,0
+7422,1124,Skallist-Hem - Tjodalyng skole,3,0
+7423,221,Klåstadkrysset - Tjodalyng skole,3,0
+7424,220,Klåstadkrysset - Tjodalyng skole,3,0
+7425,1127,Verningen-Auby - Tjodalyng skole,3,0
+7426,1128,Bjønnes-Auby - Thor Heyerdahl vg. skole II,3,0
+7427,1129,Skallist-Hem - Tjodalyng skole,3,0
+7428,1130,Kjerringvik - Tjodalyng skole,3,0
+7429,1131,Eftang - Tjodalyng skole,3,0
+7430,1132,Eftang - Thor Heyerdahl vg. skole II,3,0
+7431,1133,Verningen-Auby - Tjodalyng skole,3,0
+7432,1134,Tjølling-Larvik - Sandefjord vg. skole III,3,0
+7433,1135,Sandefjord - Thor Heyerdahl vg. skole II,3,0
+7434,220,Klåstadkrysset - Thor Heyerdahl vg. skole II,3,0
+7435,221,Klåstadkrysset - Klåstad,3,0
+7436,1138,Skallist-Hem - Tjodalyng skole,3,0
+7437,1139,Kjerringvik - Tjodalyng skole,3,0
+7438,1140,Eftang - Tjodalyng skole,3,0
+7439,1141,Verningen-Auby - Tjodalyng skole,3,0
+7440,1142,Sandefjord - Thor Heyerdahl vg. skole II,3,0
+7441,01,Sandefjord vgs - Larvik stasjon,3,0
+7442,1144,Larvik - Sandefjord vg. skole III,3,0
+7443,01,Larvik - Sandefjord rutebilstasjon,3,0
+7444,1147,Enga - Ranvik u. skole,3,0
+7445,1150,Tønsberg - Sandefjord rutebilstasjon,3,0
+7446,1151,Framnes Skagerak - Tønsberg rutebilstasjon,3,0
+7447,1152,Tønsberg - Sandefjord vg. skole III,3,0
+7448,1153,Borre u.skole - Horten rutebilstasjon,3,0
+7449,1154,Tønsberg - Sandefjord vg. skole III,3,0
+7450,01,Sandefjord - Tønsberg stasjon,3,0
+7451,1156,Tønsberg - Sandefjord vg. skole III,3,0
+7452,1157,Tønsberg - Greveskogen vg. skole,3,0
+7453,1158,Tønsberg - Sandefjord vg. skole III,3,0
+7454,01,Tønsberg - Sandefjord rutebilstasjon,3,0
+7455,1160,Sandefjord vgs - Tønsberg rutebilstasjon,3,0
+7456,01,Tønsberg - Enga,3,0
+7457,1162,Sandefjord - Sandefjord vg. skole II,3,0
+7458,01,Greveskogen vgs - Kjær,3,0
+7459,01,Horten - Åsgårdstrand kirke,3,0
+7460,1174,Borre u.skole - Vikveien,3,0
+7461,1175,Borre u.skole - Kjær,3,0
+7462,1176,Åsgårdstrand - Borre u. skole,3,0
+7463,1177,Åsgårdstrand - Borre u. skole,3,0
+7464,1178,Åsgårdstrand - Borre u. skole,3,0
+7465,1179,Horten - Bergsåsen,3,0
+7466,1180,Hengsrud-Knutstad - Solerød skole,3,0
+7467,1181,Skoppum - Borre u. skole,3,0
+7468,1182,Bergsåsen - Horten rutebilstasjon,3,0
+7469,1183,Solerød skole - Revetal,3,0
+7470,1184,Hengsrud-Revetal - Undrum,3,0
+7471,1185,Hengsrud-Knutstad - Solerød skole,3,0
+7472,1186,Adal - Borre u. skole,3,0
+7473,1187,Granly skole - Åsgårdstrand kirke,3,0
+7474,1188,Nykirke-Rygland - Borre u. skole,3,0
+7475,1189,Nykirke-Rygland - Borre u. skole,3,0
+7476,1190,Horten - Horten rutebilstasjon,3,0
+7477,74,Kirkevoll - Horten rutebilstasjon,3,0
+7478,1192,Kirkevoll - Bekkajordet,3,0
+7479,1193,Adal - Borre u. skole,3,0
+7480,1194,Skoppum - Borre u. skole,3,0
+7481,1200,Furustad-Himberg - Virik skole,3,0
+7482,1201,Furustad-Himberg - Ranvik u. skole,3,0
+7483,162,Sandefjord - Skogan,3,0
+7484,1203,Strand-Skogan - Breidablikk u. skole,3,0
+7485,1204,Solbakken-Fevang - Breidablikk u. skole,3,0
+7486,1205,Breidablikk usk - Linglemveien Bottveien,3,0
+7487,1206,Solbakken-Fevang - Breidablikk u. skole,3,0
+7488,162,Strand-Skogan - Sandefjord vg. skole II,3,0
+7489,162,Sandefjord - Skogan,3,0
+7490,1209,Strand-Skogan - Breidablikk u. skole,3,0
+7491,1210,Furustad-Himberg - Virik skole,3,0
+7492,1211,Hørdal-Klinestad - Fevang skole,3,0
+7493,1213,Tingvoll-Kodal - Bugården u. skole,3,0
+7494,1214,Rørkoll-Feen - Stokke stasjon,3,0
+7495,1215,Sandefjord - Gjerstad,3,0
+7496,1216,Kodal-Andebu - Gjerstad,3,0
+7497,1217,Sandefjord - Granum gård,3,0
+7498,138,Sandefjord vgs - Sørby,3,0
+7499,138,Stokke - Sandefjord vg. skole,3,0
+7500,1220,Hvitstein-Gjerstad - Sandefjord vg. skole II,3,0
+7501,1221,Andebu - Sagmyra,3,0
+7502,1222,Hvitstein-Gjerstad - Andebu skole,3,0
+7503,1223,Kodal - Sagmyra,3,0
+7504,1224,Tingvoll-Kodal - Haukerød skole,3,0
+7505,1225,Hvitstein-Gjerstad - Andebu skole,3,0
+7506,1226,Hvitstein-Gjerstad - Sandefjord vg. skole II,3,0
+7507,1227,Sandefjord - Ranvik u. skole,3,0
+7508,1228,Enga-Ranvik - Store Bergan skole,3,0
+7509,1229,Enga-Ranvik - Ranvik u. skole,3,0
+7510,1230,Tveitan-Framnes - Varden u. skole,3,0
+7511,1231,Sandefjord - Sandefjord vg. skole II,3,0
+7512,1232,Sandefjord - Ranvik u. skole,3,0
+7513,1233,Varden usk - Hjertnespromenaden,3,0
+7514,1234,Ranvik usk - Stub,3,0
+7515,1235,Vøra-Tveitan - Varden u. skole,3,0
+7516,1236,Kodal - Sagmyra,3,0
+7517,1237,Tangen-Framnes - Varden u. skole,3,0
+7518,1238,Melsomvik-Bogen - Bokemoa skole,3,0
+7519,138,Sandefjord - Stokke stasjon,3,0
+7520,162,Sandefjord - Skogan,3,0
+7521,162,Sandefjord - Skogan,3,0
+7522,138,Sandefjord - Melsom vg. skole,3,0
+7523,163,Sandefjord - Sandefjord rutebilstasjon,3,0
+7524,1244,Hørdal-Klinestad - Fevang skole,3,0
+7525,1245,Melsomvik-Bogen - Bokemoa skole,3,0
+7526,138,Sandefjord - Stokke stasjon,3,0
+7527,1247,Melsomvik-Bogen - Bokemoa skole,3,0
+7528,138,Melsom vgs - Sandefjord rutebilstasjon,3,0
+7529,1249,Bokemoa-Stokke usk - Åsly,3,0
+7530,1250,Sandefjord - Sandefjord vg. skole II,3,0
+7531,1251,Tveitan-Framnes - Varden u. skole,3,0
+7532,1252,Enga - Ranvik u. skole,3,0
+7533,138,Sandefjord - Breidablikk u. skole,3,0
+7534,1254,Strand-Skogan - Helgerød skole,3,0
+7535,1255,Enga-Ranvik - Ranvik u. skole,3,0
+7536,1257,Tingvoll-Kodal - Bugården u. skole,3,0
+7537,1258,Råstad-Skravestad - Breidablikk u. skole,3,0
+7538,1259,Sandefjord - Melsom vg. skole,3,0
+7539,1262,Vøra-Tveitan - Varden u. skole,3,0
+7540,1263,Tangen-Framnes - Varden u. skole,3,0
+7541,1264,Ranvik usk - Enga,3,0
+7542,1265,Sandefjord - Framnes Skagerak,3,0
+7543,1268,Vøra-Tveitan - Varden u. skole,3,0
+7544,1270,Tangen-Framnes - Varden u. skole,3,0
+7545,1280,Thor Heyerdahl vgs - Sandefjord rutebilstasjon,3,0
+7546,1281,Meieriet - Larvik sentrumsterminal,3,0
+7547,1282,Haukerød-Sandefj. - Thor Heyerdahl vg. skole,3,0
+7548,1283,Larvik - Sandefjord rutebilstasjon,3,0
+7549,1284,Haukerød-Sandefj. - Thor Heyerdahl vg. skole,3,0
+7550,1285,Larvik - Sandefjord rutebilstasjon,3,0
+7551,1286,Verningen-Sandefj - Hedrum u. skole,3,0
+7552,03,Skolmar - Asnes,3,0
+7553,03,Sandefjord - Sandefjord vg. skole II,3,0
+7554,1289,Framnes Skagerak - Sandefjord rutebilstasjon,3,0
+7555,1291,Thor Heyerdahl vgs - Sandefjord rutebilstasjon,3,0
+7556,03,Sandefjord - Sandefjord vg. skole II,3,0
+7557,1293,Framnes Skagerak - Sandefjord rutebilstasjon,3,0
+7558,1294,Sandefjord - Thor Heyerdahl vg. skole,3,0
+7559,1295,Krokemoa-Larvik - Sandefjord rutebilstasjon,3,0
+7560,1300,Larvik - Larvik sentrumsterminal,3,0
+7561,1301,Vassvik-Helgeroa - Sky skole,3,0
+7562,208,Nevlunghavn - Larvik sentrumsterminal,3,0
+7563,1303,Thor Heyerdahl vgs - Haga,3,0
+7564,1304,Ra usk-Sky skole - Tvedalen,3,0
+7565,1305,Tvetenås-Helgeroa - Sky skole,3,0
+7566,1306,Tvedalen-Tanum - Berg skole,3,0
+7567,1307,Berg skole - Bratthagen,3,0
+7568,1308,Ra u.skole - Nevlunghavn,3,0
+7569,1309,Sky skole - Tveteneåsen,3,0
+7570,1310,Larvik - Ra u. skole,3,0
+7571,1311,Nevlunghavn - Thor Heyerdahl vg. skole II,3,0
+7572,1312,Tvetenås-Helgeroa - Sky skole,3,0
+7573,1313,Tvetenåsen - Sky skole,3,0
+7574,1314,Tvetenåsen - Sky skole,3,0
+7575,1315,Tvetenås-Helgeroa - Ra u. skole,3,0
+7576,1325,Lardal skole - Styrvoll,3,0
+7577,1326,Helgeland-Steinsholt - Lardal skole,3,0
+7578,1328,Helgeland-Steinsholt - Lardal skole,3,0
+7579,1330,Lardal skole - Steinsholt,3,0
+7580,214,Kvelde-Larvik - Lardal skole,3,0
+7581,214,Kvelde-Svarstad - Thor Heyerdahl vg. skole,3,0
+7582,214,Kvelde-Larvik - Svarstad bussgarasjen,3,0
+7583,214,Thor Heyerdahl vgs - Larvik stasjon,3,0
+7584,214,Kvelde-Larvik - Lardal skole,3,0
+7585,214,Kvelde-Svarstad - Thor Heyerdahl vg. skole,3,0
+7586,214,Svarstad - Skjerven,3,0
+7587,1339,Ra u.skole - Thor Heyerdahl vg. skole,3,0
+7588,1343,Kvelde skole - Rien,3,0
+7589,1344,Utkleiv-Rimstad - Hvarnes skole,3,0
+7590,1345,Utkleiv-Rimstad - Hvarnes skole,3,0
+7591,1346,Sundet-Bommestad - Kvelde skole,3,0
+7592,1347,Kvelde - Thor Heyerdahl vg. skole,3,0
+7593,1348,Tangen-Skinmo - Sundet,3,0
+7594,1349,Lardal skole - Svarstad,3,0
+7595,1350,Kviberg - Lardal skole,3,0
+7596,1351,Brufoss-Kviberg - Lardal skole,3,0
+7597,1352,Hedrum skole - Gjone krysset,3,0
+7598,1353,Kvelde skole - Bjerke nord,3,0
+7599,1354,Farrisbygda - Kvelde skole,3,0
+7600,1355,Bjerke-Kvelde - Hedrum skole,3,0
+7601,1356,Bjerke-Kvelde - Hedrum u. skole,3,0
+7602,1357,Farrisbygda - Kvelde skole,3,0
+7603,1358,Farrisbygda - Kvelde skole,3,0
+7604,1359,Farrisbygda - Kvelde skole,3,0
+7605,214,Thor Heyerdahl vgs - Styrvoll kirke,3,0
+7606,1361,Thor Heyerdahl vgs - Tangen Engane,3,0
+7607,1362,Kvelde skole - Bommestad,3,0
+7608,1363,Åsrum-Sundet - Hedrum skole,3,0
+7609,1364,Åsrum-Sundet - Thor Heyerdahl vg. skole,3,0
+7610,1365,Sundet-Bommestad - Kvelde skole,3,0
+7611,1366,Thor Heyerdahl vgs - Åsrum,3,0
+7612,1367,Larvik - Ra u. skole,3,0
+7613,1368,Larvik - Ono snuplass,3,0
+7614,1369,Vestmarka - Hedrum u. skole,3,0
+7615,1370,Vestmarka - Hedrum skole,3,0
+7616,1371,Vestmarka - Hedrum u. skole,3,0
+7617,1372,Hvårå-Rien - Kvelde skole,3,0
+7618,1373,Lardal skole - Otterstad,3,0
+7619,1374,Hem-Skjerven - Lardal skole,3,0
+7620,1375,Hem-Skjerven - Lardal skole,3,0
+7621,1376,Svarstad - Lie,3,0
+7622,1377,Kroken-Lie - Svarstad,3,0
+7623,1378,Hem-Skjerven - Lardal u. skole,3,0
+7624,1379,Brufoss-Kviberg - Lardal u. skole,3,0
+7625,1380,Helgeland-Steinsholt - Lardal u. skole,3,0
+7626,1381,Svarstad - Hvittingfoss sentrum,3,0
+7627,1382,Lie-Hvittingfoss - Svarstad,3,0
+7628,1383,Svarstad - Kroken,3,0
+7629,1384,Vestmarka - Fagerli skole,3,0
+7630,1385,Verningen-Sundet - Hedrum u. skole,3,0
+7631,1386,Verningen-Sundet - Hedrum u. skole,3,0
+7632,1387,Åsrum-Sundet - Hedrum u. skole,3,0
+7633,1388,Åsrum-Sundet - Hedrum u. skole,3,0
+7634,1389,Thor Heyerdahl vgs - Norheim,3,0
+7635,1500,Re vg skole - Tønsberg rutebilstasjon,3,0
+7636,1501,Tønsberg - Bergsåsen,3,0
+7637,1502,Dalsroa-Andebu - Høyjord skole,3,0
+7638,1503,Tønsberg - Moland,3,0
+7639,1504,Tønsberg - Bergsåsen,3,0
+7640,1505,Re vg skole - Tønsberg rutebilstasjon,3,0
+7641,1506,Tønsberg - Bergsåsen,3,0
+7642,1507,Sem skole - Hogsnesbakken nedre,3,0
+7643,1508,Revetal u.skole - Sem skole,3,0
+7644,1509,Revetal u.skole- Svinevoll ,3,0
+7645,1510,Re vg skole - Andebu sentrum,3,0
+7646,124,Andebu - Heimdal,3,0
+7647,1512,Ramnes skole - Revetal u. skole,3,0
+7648,1513,Ramnes skole - Ramnes Tingvoll,3,0
+7649,1514,Barkost-Fon - Kirkevold,3,0
+7650,1515,Strange-Svinevoll - Kirkevold,3,0
+7651,1516,Kihle-Vivestad - Ramnes skole,3,0
+7652,1517,Fossan-Myre - Røråstoppen skole,3,0
+7653,1518,Linnestad-Bjune - Ramnes skole,3,0
+7654,1519,Tønsberg - Bergsåsen,3,0
+7655,1521,Linnestad-Bjune - Ramnes skole,3,0
+7656,1522,Revetal - Ramnes skole,3,0
+7657,1523,Kihle-Vivestad - Røråstoppen skole,3,0
+7658,1524,Andebu - Bergsåsen,3,0
+7659,113,Tønsberg - Syrbekk,3,0
+7660,1526,Fon - Revetal,3,0
+7661,113,Tønsberg - Syrbekk,3,0
+7662,113,Tønsberg - Syrbekk,3,0
+7663,1530,Tønsberg - Greveskogen vg. skole,3,0
+7664,1531,Teigar u.skole - Husøy brygge,3,0
+7665,113,Tønsberg - Syrbekk,3,0
+7666,116,Borgheim - Vallø,3,0
+7667,1534,Bjelland-Hogsnes - Sem skole,3,0
+7668,116,Tønsberg - Løveid,3,0
+7669,1537,Volden-Ringshaug - Klokkeråsen,3,0
+7670,1538,Åsgårdstrand-Rom - Ringshaug u. skole,3,0
+7671,1539,Oterbekk-Oserød - Borgheim u. skole,3,0
+7672,1540,Tønsberg - Greveskogen vg. skole,3,0
+7673,1541,Tønsberg - Greveskogen vg. skole,3,0
+7674,1542,Tønsberg - Greveskogen vg. skole,3,0
+7675,1543,Teigar u.skole - Husøy brygge,3,0
+7676,1544,Husøy - Teigar u. skole,3,0
+7677,1545,Husøy - Teigar u. skole,3,0
+7678,1546,Brattås skole - Tinghaug,3,0
+7679,1548,Tenvik-Kjøpmanns. - Brattås skole,3,0
+7680,1549,Tenvik-Stangeby - Brattås skole,3,0
+7681,1550,Oterbekk-Oserød - Borgheim u. skole,3,0
+7682,1551,Borgh.-Steinersk.. - Borgheim,3,0
+7683,1552,Husøy-Teie - Borgheim u. skole,3,0
+7684,1553,Borgheim u.skole - Teie torv,3,0
+7685,1554,Borgheim u.skole - Vetan Movikveien,3,0
+7686,1555,Knarberg-Hjemseng - Borgheim u. skole,3,0
+7687,1556,Ekenes-Torød - Borgheim u. skole,3,0
+7688,1557,Borgheim u.skole - Bergan,3,0
+7689,1558,Skjelland-Høyjord - Andebu skole,3,0
+7690,124,Andebu - Lønnskoll,3,0
+7691,1560,Torød-Strengsdal - Steinerskolen i Vestfold,3,0
+7692,1561,Tønsberg - Borgheim u. skole,3,0
+7693,1563,Høyjord skole - Dal Dalsroaveien,3,0
+7694,124,Dalsroa-Andebu - Høyjord skole,3,0
+7695,1565,Revetal-Bergsåsen - Vivestad ungdomslokale,3,0
+7696,1566,Borgheim u.skole - Årøysund,3,0
+7697,1567,Tønsberg - Bergsåsen,3,0
+7698,1568,Tønsberg - Bergsåsen,3,0
+7699,1569,Ramnes-Revetal - Sjue sag,3,0
+7700,1570,Skjelland-Berg - Andebu skole,3,0
+7701,1571,Nauen - Tønsberg rutebilstasjon,3,0
+7702,1572,Lindhøy-Steinersk - Verdens Ende,3,0
+7703,1573,Grimestad-Sundene - Lindhøy skole,3,0
+7704,124,Heimdal - Andebu sentrum,3,0
+7705,1575,Verdens Ende - Lindhøy skole,3,0
+7706,1576,Verdens Ende - Lindhøy skole,3,0
+7707,1577,Tønsberg - Sundene,3,0
+7708,1578,Greveskogen vgs - Tønsberg rutebilstasjon,3,0
+7709,1579,Greveskogen vgs - Tønsberg rutebilstasjon,3,0
+7710,1580,Greveskogen vgs - Tønsberg rutebilstasjon,3,0
+7711,1581,Tønsberg - Nauen,3,0
+7712,1582,Granly skole - Tønsberg rutebilstasjon,3,0
+7713,1583,Tønsberg - Granly skole,3,0
+7714,02,Tønsberg - Kirkebakken Borre,3,0
+7715,1585,Knarberg-Hjemseng - Borgheim u. skole,3,0
+7716,1586,Bakkenteigen-Horten - Tønsberg rutebilstasjon,3,0
+7717,1587,Husøy - Teigar u. skole,3,0
+7718,1588,Tønsberg - Greveskogen vg. skole,3,0
+7719,1589,Svelvikst.-Mågerø - Lindhøy skole,3,0
+7720,1590,Grimestad-Sundene - Lindhøy skole,3,0
+7721,113,Tønsberg - Syrbekk,3,0
+7722,113,Tønsberg - Syrbekk,3,0
+7723,113,Eik - Tønsberg rutebilstasjon,3,0
+7724,02,Tønsberg - Kirkebakken Borre,3,0
+7725,02,Horten - Tønsberg rutebilstasjon,3,0
+7726,1597,Vivestad - Høyjord skole,3,0
+7727,1598,Vivestad-Gravdal - Høyjord skole,3,0
+7728,124,Heimdal-Vivestad - Andebu skole,3,0
+7729,1600,Årøysund-Movik - Borgheim u. skole,3,0
+7730,1601,Årøysund-Movik - Borgheim u. skole,3,0
+7731,1602,Høyjord-Heimdal - Andebu skole,3,0
+7732,1605,Borgheim u.skole - Sundene,3,0
+7733,1609,Tjøme-Lindhøy - Mågerø,3,0
+7734,1610,Mågerø - Sundene,3,0
+7735,022,Verdens Ende - Greveskogen vg. skole,3,0
+7736,1612,Greveskogen vgs - Tønsberg rutebilstasjon,3,0
+7737,1614,Borgheim u.skole - Husøy brygge,3,0
+7738,1620,Greveskogen vgs - Tønsberg rutebilstasjon,3,0
+7739,02,Borgheim - Kirkebakken Borre,3,0
+7740,1623,Borgheim - Knarberg,3,0
+7741,1625,Sandefjord vgs - Sørby,3,0
+7742,1626,Sandefjord vgs - Jarlsberg travbane fv. 303,3,0
+7743,1627,Tønsberg - Sandefjord vg. skole III,3,0
+7744,1628,Stokke-Vear - Sandefjord vg. skole III,3,0
+7745,1630,Kjøpmannskjær - Brattås skole,3,0
+7746,130,Tønsberg - Vearveien,3,0
+7747,1632,Bjelland-Hogsnes - Sem skole,3,0
+7748,1633,Færder vgs - Tønsberg rutebilstasjon,3,0
+7749,1634,Bokemoa-Stokke usk - Tønsberg rutebilstasjon,3,0
+7750,130,Tønsberg - Vearveien,3,0
+7751,1636,Re vg skole - Gjennestad,3,0
+7752,1637,Stokke - Bergsåsen,3,0
+7753,1638,Tønsberg - Melsom skole,3,0
+7754,1639,Storevar-Stokke - Melsom skole,3,0
+7755,1640,Re vg skole - Sørby,3,0
+7756,1641,Tønsberg - Bokemoa skole,3,0
+7757,129,Stokke - Greveskogen vg. skole,3,0
+7758,1643,Dalen-Dyrsø - Bokemoa skole,3,0
+7759,1644,Melsom-Vear skole - Sem,3,0
+7760,1645,Tønsberg - Melsom skole,3,0
+7761,1646,Dyrsø-Tveitan - Vennerød skole,3,0
+7762,1647,Dyrsø-Tveitan - Vennerød skole,3,0
+7763,1648,Ramsum-Stokke usk - Dalenkrysset,3,0
+7764,1649,Vestre Skjee - Vennerød skole,3,0
+7765,1650,Fossnes-V.Skjee - Bokemoa skole,3,0
+7766,1651,Bokemoa-Stokke usk - Kleppan,3,0
+7767,1652,Rørkoll-Dalen - Bokemoa skole,3,0
+7768,02,Tønsberg - Ormelet,3,0
+7769,1654,Rørkoll-Dalen - Bokemoa skole,3,0
+7770,1655,Jarberg-Vear - Ramnes skole,3,0
+7771,1656,Greveskogen vgs - Klopp,3,0
+7772,130,Tønsberg - Vearveien,3,0
+7773,1658,Storevar-Stokke - Vear skole,3,0
+7774,1660,Gauterød-Løveid - Greveskogen vg. skole,3,0
+7775,113,Tønsberg - Syrbekk,3,0
+7776,124,Høyjord-Heimdal - Andebu sentrum,3,0
+7777,1664,Hvasser - Steinerskolen i Vestfold,3,0
+7778,1665,Storevar-Stokke - Melsom skole,3,0
+7779,111,Tønsberg - Narverød,3,0
+7780,1670,Tønsberg - Eiktoppen,3,0
+7781,02,Tønsberg - Borgheim,3,0
+7782,1672,Jarberg - Ramnes skole,3,0
+7783,1673,Jarberg - Røråstoppen skole,3,0
+7784,1674,Greveskogen-Wang - Tønsberg rutebilstasjon,3,0
+7785,113,Tønsberg - Syrbekk,3,0
+7786,1676,Tønsberg - Greveskogen vg. skole,3,0
+7787,022,Tjøme-Lindhøy - Tønsberg rutebilstasjon,3,0
+7788,113,Robergrønningen - Dreggveien,3,0
+7789,113,Tønsberg - Syrbekk,3,0
+7790,1682,Barkost-Fon - Kirkevold,3,0
+7791,1683,Barkost-Fon - Kirkevold,3,0
+7792,1685,Hvasser - Lindhøy skole,3,0
+7793,1687,Tønsberg - Borgheim u. skole,3,0
+7794,1688,Tønsberg - Borgheim u. skole,3,0
+7795,1689,Bakkenteigen via Eik - Tønsberg rutebilstasjon,3,0
+7796,116,Tønsberg - Vallø,3,0
+7797,113,Eik - Tønsberg rutebilstasjon,3,0
+7798,1692,Hvasser - Lindhøy skole,3,0
+7799,1693,Vestveien-Mågerø - Lindhøy skole,3,0
+7800,1694,Grimestad-Sundene - Lindhøy skole,3,0
+7801,113,Eik - Tønsberg rutebilstasjon,3,0
+7802,1696,Husøy-Teie - Borgheim u. skole,3,0
+7803,1697,Torød-Strengsdal - Steinerskolen i Vestfold,3,0
+7804,113,Tønsberg - Syrbekk,3,0
+7805,113,Eik - Tønsberg rutebilstasjon,3,0
+7806,1700,Byskogen skole - Brendsrød,3,0
+7807,1701,Byskogen skole - Tveitan bru,3,0
+7808,1702,Byskogen skole - Hogsnesbakken nedre,3,0
+7809,1703,Sem - Byskogen skole,3,0
+7810,1704,Ås-Sem - Byskogen skole,3,0
+7811,1705,Bjelland-Hogsnes - Byskogen skole,3,0
+7812,1709,Sem - Byskogen skole,3,0
+7813,1710,Ås-Sem - Byskogen skole,3,0
+7814,1711,Bjelland-Hogsnes - Byskogen skole,3,0
+7815,1712,Færder vgs - Tønsberg rutebilstasjon,3,0
+7816,1713,Færder vgs - Tønsberg rutebilstasjon,3,0
+7817,1715,Tønsberg - Færder vg. skole,3,0
+7818,1717,Tønsberg - Færder vg. skole,3,0
+7819,1718,Tønsberg - Færder vg. skole,3,0
+7820,1719,Tønsberg - Færder vg. skole,3,0
+7821,1720,Kjøpmannskjær - Borgheim u. skole,3,0
+7822,1724,Rørkoll-Dalen - Bokemoa skole,3,0
+7823,1725,Storevar-Melsom - Bokemoa skole,3,0
+7824,1726,Dalen-Dyrsø - Bokemoa skole,3,0
+7825,1727,Fossnes-V.Skjee - Bokemoa skole,3,0
+7826,1730,Dalen-Dyrsø - Bokemoa skole,3,0
+7827,1731,Fossnes-V.Skjee - Bokemoa skole,3,0
+7828,1732,Rørkoll-Dalen - Bokemoa skole,3,0
+7829,1733,Storevar-Melsom - Bokemoa skole,3,0
+7830,1735,Storevar-Stokke - Vear skole,3,0
+7831,1736,Stokke-Tønsberg - Sandefjord vg. skole III,3,0
+7832,1800,Skafjellåsen - Haga skole,3,0
+7833,1801,Skoger-Klevjerhagen - Skoger stasjon,3,0
+7834,1802,Berger - Svelvik u. skole,3,0
+7835,1803,Sande u.skole - Bjerkøya,3,0
+7836,1804,Haga skole - Granbakken,3,0
+7837,1805,Svelvik-Tangen - Sande vg. skole,3,0
+7838,1806,Skafjellåsen - Haga skole,3,0
+7839,1807,Skoger-Klevjerhagen - Kjeldås,3,0
+7840,1809,Klevjerhagen - Haga skole,3,0
+7841,1812,Sande vgs - Svelvik ferjekai,3,0
+7842,1813,Drammen - Svelvik u. skole,3,0
+7843,1814,Klevjerhagen-Skoger - Haga skole,3,0
+7844,1815,Svelvik-Mariås - Sande vg. skole,3,0
+7845,1817,Sande vgs - Bragernes torg,3,0
+7846,1818,Sande vgs - Mariås,3,0
+7847,1819,Svelvik-Mariås - Sande vg. skole,3,0
+7848,1820,Sande - Sande vg. skole,3,0
+7849,1823,Sande u.skole - Jonsrud,3,0
+7850,1825,Svelvik usk - Tørkop,3,0
+7851,1827,Mariås - Svelvik u. skole,3,0
+7852,1831,Svelvik usk - Mariås,3,0
+7853,1833,Klevjerhagen-Skoger - Haga skole,3,0
+7854,1834,Sande u.skole - Sande stasjon,3,0
+7855,1837,Sande - Sande vg. skole,3,0
+7856,1838,Berger - Selvik skole,3,0
+7857,1839,Skoger-Klevjerhagen - Kjeldås,3,0
+7858,1840,Bjerkøya - Haga skole,3,0
+7859,1842,Holm-Ødegården - Haga skole,3,0
+7860,1843,Haga skole - Gravningen,3,0
+7861,1844,Berger - Svelvik u. skole,3,0
+7862,1845,Tømmerås skole - Strandveien,3,0
+7863,1846,Svelvik usk - Berger kafe,3,0
+7864,1847,Tømmerås skole - Mariås,3,0
+7865,1848,Tangen skole - Mariås,3,0
+7866,1849,Berger - Svelvik u. skole,3,0
+7867,1850,Mariås - Svelvik u. skole,3,0
+7868,1851,Mariås - Tangen fjordpark,3,0
+7869,1852,Mariås - Tangen fjordpark,3,0
+7870,1853,Mariås - Tangen fjordpark,3,0
+7871,1854,Mariås - Svelvik u. skole,3,0
+7872,1856,Berger - Svelvik u. skole,3,0
+7873,1857,Tangen-Tørkop - Svelvik u. skole,3,0
+7874,1858,Berger - Svelvik u. skole,3,0
+7875,1859,Mariås - Svelvik u. skole,3,0
+7876,1860,Mariås - Svelvik u. skole,3,0
+7877,1861,Mariås - Svelvik u. skole,3,0
+7878,1900,Horten - Holmestrand stasjon,3,0
+7879,1901,Holmestrand - Horten rutebilstasjon,3,0
+7880,1902,Holmestrand - Horten rutebilstasjon,3,0
+7881,1903,Kirkevoll-Revetal - Hengsrød,3,0
+7882,1904,Hof - Bergsåsen,3,0
+7883,43,Bergsåsen - Hof,3,0
+7884,1906,Kronlia-Gjøgri - Gjøklep u. skole,3,0
+7885,1910,Hof skole - Sundbyfoss,3,0
+7886,1916,Hof skole - Sundbyfoss bru,3,0
+7887,1918,Sundbyfoss-Kronlia - Hof skole,3,0
+7888,1927,Eplerød - Gjøklep u. skole,3,0
+7889,1928,Gjøklep usk - Tømmeråstjernet,3,0
+7890,1929,Gjøklep usk - Hallingsrød,3,0
+7891,1930,Strange-Fon - Kirkevold,3,0
+7892,1932,Kleiverud-Holmestrand - Gjøklep u. skole,3,0
+7893,1933,Ramnes-Røråstoppen - Fossan,3,0
+7894,1934,Re vg skole - Holmestrand stasjon,3,0
+7895,1935,Kirkevoll-Revetal - Fossan,3,0
+7896,1936,Strange-Fon - Kirkevold,3,0
+7897,48,Gullhaug Ring - Holmestrand stasjon,3,0
+7898,1938,Strange-Fon - Kirkevold,3,0
+7899,1939,Kirkevoll-Mulvika - Revetal u. skole,3,0
+7900,48,Holmestrand - Holmestrand stasjon,3,0
+7901,1944,Gjøklep usk - Hvitstein,3,0
+7902,1945,Kopstad-Mulvika - Kirkevold,3,0
+7903,1946,Holmestrand - Bergsåsen,3,0
+7904,1947,Eplerød - Botne skole,3,0
+7905,1949,Ekeberg skole - Holmestrand stasjon,3,0
+7906,1950,Kronlia - Hof skole,3,0
+7907,1951,Holmestrand - Gjøklep u. skole,3,0
+7908,1952,Kronlia-Gjøgri - Botne skole,3,0
+7909,1953,Kornto-Botne kirke - Botne skole,3,0
+7910,1955,Eplerød - Gjøklep u. skole,3,0
+7911,1956,Kronlia-Gjøgri - Gjøklep u. skole,3,0
+7912,1957,Kleiverud - Holmestrand vg. skole,3,0
+7913,1958,Kornto-Botne kirke - Gjøklep u. skole,3,0
+7914,1959,Hof - Hof,3,0
+7915,1960,Kirkevoll - Fon skole,3,0
+8000,M1,Langesund - Gulsetsenteret,3,0
+8001,M1,Langesund via Sundby/Langesund via Eikstrand - Gulset,3,1
+8002,M2,Skjelsvik terminal - Falkum,3,1
+8003,M3,Skjelsvik terminal - Skien stasjon,3,1
+8004,P4,Herøya Ind.park - Skotfoss,3,1
+8005,P5,Herre - Skien terminal,3,1
+8006,P6,Åfoss-Ramberget - Jønnevald/Eriksrød,3,1
+8007,P7,Skien-Gulset via Strømdal - Siljan,3,1
+8008,P8,Skjelsvik terminal - Cocheplassen/Herre,3,1
+8011,1,Høgås - Notodden skysstasjon,3,0
+8012,2,Sjukehuset-Anundskås - Notodden skysstasjon,3,0
+8013,3,H.I.T-Skogen-Lienvegen - Notodden skysstasjon,3,0
+8014,4,Tuven-Heddal stavkyrkje-Kvantum - Notodden skysstasjon,3,0
+8015,5,Tinnebyen-Tveiten - Notodden skysstasjon,3,0
+8016,6,Kvantum-Yli-Tuven - Notodden skysstasjon,3,0
+8017,8017,Fjerdingene - Rødsberg skole,3,0
+8018,8018,Risum vgs. - Halden bussterminal,3,0
+8084,84,Herøya Ind.park - Skjelsvik terminal,3,1
+8101,101,Åmot - Grungebru/Edland,3,1
+8102,102,Seljord - Fyresdal,3,1
+8103,103,Ulefoss - Lunde,3,1
+8104,104,Vrådal - Skree,3,1
+8111,111,Ulefoss - Ulefoss skole,3,0
+8113,113,Lunde - Landsmarka,3,1
+8115,115,Norheim-Kåsa - Svenseid-Tjønnås,3,1
+8116,116,Bø stasjon - Bø stasjon,3,1
+8117,117,Ulefoss - Ulefoss senter,3,0
+8121,121,Lunde - Bø stasjon,3,1
+8122,122,Lunde - Lunde stasjon,3,0
+8123,123,Bø stasjon - Bø sentrum,3,1
+8127,127,Åmotsdal - Nutheim/Seljord,3,1
+8131,131,Treungen/Åmli - Vrådal,3,1
+8132,132,Høydalsmo/Vrådal - Dalen,3,1
+8133,133,Brunkeberg - Seljord,3,1
+8134,134,Kviteseid/Kvitsund - Fjågesund,3,1
+8135,135,Treungen - Fjone/Heimdal,3,1
+8136,136,Treungen - Felle,3,1
+8141,141,Dalen/Krossli - Fyresdal,3,1
+8142,142,Dalen - Åmot,3,1
+8143,143,Åmot - Rjukan/Vierli,3,1
+8144,144,Rauland - Varland,3,1
+8145,145,Dalen - Byrte,3,1
+8146,146,Edland - Arabygdi,3,1
+8147,147,Åmot - Kostveit,3,1
+8148,148,Rauland - Vå,3,1
+8150,150,Åmot/Høydalsmo - Lårdal,3,1
+8151,151,Rauland - Høydalsmo,3,1
+8162,162,Breivik - Fyresdal,3,1
+8163,163,Kleivgrend - Fyresdal,3,1
+8200,200,Gaustablikk-Vatnedalen - Rjukan-Krosso,3,1
+8201,201,Gaustablikk-Vatnedalen - Gaustabanen,3,1
+8209,209,Dale Bakhus/Austbygde - Våer/Krosso,3,1
+8281,281,Sandøya - Brevik,4,1
+8301,301,Seljord - Notodden,3,1
+8305,305,Tuddal - Notodden,3,1
+8312,312,Gransherad - Notodden,3,1
+8313,313,Notodden/Gransherad - Notodden,3,1
+8321,321,Bø stasjon - Stokland-Roheim/Tjønntveit,3,1
+8322,322,Lunde - Bø,3,1
+8323,323,Bø - Notodden,3,1
+8459,459,Stathelle - Kragerø,3,1
+8460,460,Trosby via Valle/Åby via Valle - Kjønnøya,3,1
+8462,462,Rønholt skole - Rørholt,3,1
+8501,501,Fossing - Kragerø,3,1
+8502,502,Farsjø - Kragerø/Tangen,3,1
+8504,504,Kjølebrønd - Tangen/Tangen-Sannidal skole,3,1
+8506,506,Bybuss - Bybuss,3,1
+8507,507,Lovisenberg - Kragerø skole,3,0
+8601,601,Skien terminal - Drangedal,3,1
+8602,602,Treungen/Gautefall - Drangedal,3,1
+8603,603,Dale/Grova - Drangedal,3,1
+8604,604,Ettestad - Drangedal,3,1
+8605,605,Norbø - Bø skule Tørdal,3,1
+8606,606,Singusdal-Oseid - Drangedal,3,1
+8607,607,Kragerø - Drangedal,3,1
+8609,609,Tangen - Kragerø,3,1
+8610,610,Merkebekk-Eskilt/Kroken skole - Kroken skole,3,1
+8701,701,Levang-Portør - Stabbestad,3,1
+8702,702,Korset Skåtøy- Skåtøyroa ,3,1
+8710,710,Kragerø - Kragerø ferjekai,4,0
+8711,711,Kragerø - Kragerø ferjekai,4,0
+8801,S1,Stathelle/Skauen skole - Skien terminal,3,1
+8802,S2,Svanen skole - Moflata skole,3,1
+8803,S3,Tveten/Kjørbekk - Skien terminal/Porsgrunn terminal,3,1
+8804,S4,Skotfoss-Dalsbygda/Skotfoss - Gulsetsenteret,3,0
+8805,S5,Menstad u.-skole - Menstad u.-skole,3,1
+8806,S6,Mæla u.-skole - Åfoss-Ramberget,3,1
+8807,S7,Midtbygda skole - Kikut/Siljan,3,1
+8881,81,Langangen - Porsgrunn terminal,3,1
+8882,82,Bjønnes/Leerstang - Porsgrunn terminal,3,1
+8884,84,Herøya Ind.park - Skjelsvik terminal,3,1
+8885,85,Ås - Skien terminal,3,1
+8887,87,Brevik - Heistad u.-skole/Skjelsvik terminal,3,1
+8888,88,Rugtvedt skole/Stathelle - Bamblevann,3,1
+8889,89,Stathelle barneskole - Stathelle barneskole,3,1
+8891,91,Buer-Menstad-Skauen - Skifjell,3,1
+8892,92,Skien terminal - Skyer,3,1
+8893,93,Skien terminal - Fjelldalen,3,1
+8894,94,Skien terminal - Luksefjell,3,1
+8895,95,Skien terminal - Valebø,3,1
+8896,96,Stavdal - Stavdal,3,1
+8897,97,Høydalen - Rognsbru,3,1
+8898,98,Siljan skole - Svartangen,3,1
+8899,99,Snurråsen - Hogstad,3,1
+8901,M1N,Langesund via Sundby - Gulset,3,1
+8902,M2N,Skjelsvik terminal - Falkum,3,1
+8903,M3N,Skjelsvik terminal - Skien stasjon,3,1
+8985,W185,Notodden - Rjukan,3,1
+9101,L1,Spikkestad/Asker - Lillestrøm,2,1
+9102,L2,Ski - Stabekk,2,1
+9103,L3,Jaren - Oslo S,2,1
+9110,R10,Lillehammer - Drammen,2,1
+9111,R11,Skien/Larvik - Eidsvoll,2,1
+9112,L12,Kongsberg - Eidsvoll,2,1
+9113,L13,Dal - Drammen,2,1
+9114,L14,Kongsvinger - Asker,2,1
+9120,R20,Halden - Oslo S,2,1
+9121,L21,Moss - Stabekk,2,1
+9122,L22,Mysen - Skøyen,2,1
+9130,R30,Gjøvik - Oslo S,2,1
+9132,1132,Vestby stasjon - Hølen via Garder,3,1
+9152,L2X,Ski - Stabekk/Oslo S,2,1
+9161,R11X,Skien - Oslo S,2,1
+9164,L14X,Kongsvinger - Oslo S,2,1
+9170,R20X,Halden- Oslo Sentralstasjon ,2,0
+9171,1171,Vestby stasjon- Drøbak ,3,1
+9172,L22X,Mysen/Rakkestad - Oslo S,2,1
+9180,R30x,Gjøvik- Oslo Sentralstasjon ,2,0
+9201,F1,Oslo Lufthavn - Oslo S,2,1
+9202,F2,Oslo Lufthavn - Drammen,2,1
+9203,F1x,Oslo Lufthavn - Stabekk,2,1
+9211,R11E,Skien - Lillestrøm/Oslo S,2,1
+9221,R21,Trondheim S - Oslo S,2,1
+9222,R22,Åndalsnes - Dombås,2,1
+9225,R25,Trondheim S/Røros - Hamar,2,1
+9241,R41,Bergen - Oslo S,2,1
+9250,R50,Stavanger - Oslo S,2,1
+9252,R52,Porsgrunn - Notodden,2,1
+9310,310x,Fjellsrud skole - Solvangveien,3,1
+9331,1331,Bru-Siggerud - Siggerud ,3,0
+9333,1333,Kråkstad skole - Skotbu,3,1
+9431,1431,Nordby skole - Kjærnes,3,1
+9432,1432,Nordby skole - Ås,3,1
+9433,1433,Kaxrud - Kroer skole,3,0
+9434,1434,Brønnerud-Holstad - Nyveien ,3,0
+9435,1435,Dyster/Eldor - Ås ungdomsskole,3,0
+9436,1436,Nordby skole - TusenFryd,3,1
+9531,1531,Hallangen via Blylaget - Dal skole,3,0
+9533,1533,Dyrløkke - Heer,3,0
+9571,1571,Frogn vgs - Ski stasjon,3,1
+9631,1631,Alværn - Hellvik,3,1
+9632,1632,Alværn - Blylaget,3,1
+9672,1672,Nesodden vgs - Fagerstrand,3,1
+9919,1919,Skui skole - Skui skole,3,1
+9931,31X,Jernbanetorget - Telenor Fornebu,3,1
+9987,87,Vevelstad stasjon- Hauketo stasjon ,3,0

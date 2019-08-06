@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/skjerm"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/relo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0">
+
+        <TextView
+            android:id="@+id/helpHeader"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:lineSpacingExtra="-6dp"
+            android:textColor="@android:color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtHeaderDag"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/helpHeader"
+            android:layout_marginTop="-4dp"
+            android:layout_weight="0"
+            android:textColor="@android:color/black"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/favoritt"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_alignBottom="@+id/txtHeaderDag"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            app:srcCompat="@drawable/add_to_favorite" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/vScroll"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:fadingEdgeLength="150dp"
+        android:requiresFadingEdge="vertical">
+
+        <RelativeLayout
+            android:id="@+id/vScrollChild"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/fakie"
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:background="@drawable/textview_bottom_line" />
+
+            <HorizontalScrollView
+                android:id="@+id/hScroll"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_toEndOf="@+id/vLin"
+                android:layout_toRightOf="@+id/vLin">
+
+                <RelativeLayout
+                    android:id="@+id/hScrollChild"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:id="@+id/txtHelpBar"
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:background="@drawable/textview_bottom_line"
+                        android:text="@string/avganger"
+                        android:textStyle="italic" />
+
+                    <TextView
+                        android:id="@+id/grayfakie"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="20dp"
+                        android:background="@drawable/textview_left_line_gray"
+                        android:text="iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii"
+                        android:visibility="gone" />
+
+                </RelativeLayout>
+            </HorizontalScrollView>
+
+            <LinearLayout
+                android:id="@+id/vLin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:minWidth="50dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtHelpSingle"
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:background="@drawable/textview_bottom_line"
+                    android:text="@string/stopp"
+                    android:textStyle="italic" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

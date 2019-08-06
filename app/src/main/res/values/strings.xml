@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Rutetider</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="info1">Appen er ikke ment som en fullstendig reiseguide, men som et enkelt og fleksibelt oppslagsverk
+        hvis du vil vite mer om linjer eller stopp du besøker ofte. Den fungerer også uten internet.</string>
+
+    <string name="info2">Advarsel-ikonene i rutetabellene betyr at reisen ikke går til rutens endestasjon. De kan trykkes på for mer informasjon</string>
+
+    <string name="info3">Appen er uavhengig utviklet og har ingen affiliasjoner med Ruter eller andre aktører. Rutetidene er hentet fra ruter.no/labs og blir oppdatert gjennom app-oppdateringer. Fordi rutetidene blir kraftig omformet, kan feil forekomme.</string>
+
+    <string name="info7">Logo and icon pack by\u0020</string>
+
+    <string name="ref"><a href="https://icons8.com">icons8</a></string>
+
+    <string name="favoritter">Favoritter</string>
+
+    <string name="rutetabeller">Rutetabeller</string>
+
+    <string name="avgang1">Avganger fra et stoppested</string>
+
+    <string name="avgang2">Avganger fra et stoppested i nærheten</string>
+
+    <string name="informasjon">Informasjon</string>
+
+    <string name="avganger">avganger</string>
+
+    <string name="stopp">stopp</string>
+
+    <string name="linjesokhint">Søk etter en linje&#8230;</string>
+
+    <string name="ma">mandag</string>
+
+    <string name="ti">tirsdag</string>
+
+    <string name="on">onsdag</string>
+
+    <string name="to">torsdag</string>
+
+    <string name="fr">fredag</string>
+
+    <string name="lø">lørdag</string>
+
+    <string name="sø">søndag</string>
+
+    <string name="finnrutetid">Finn rutetider</string>
+
+    <string name="sefulltabell">Se full rutetabell</string>
+
+    <string name="finnavgang">Finn avgang</string>
+
+    <string name="nå">Nå</string>
+
+    <string name="velgtid">Velg tid</string>
+
+    <string name="stoppsokhint">Søk etter et stoppested&#8230;</string>
+
+    <string name="sereisen">Se reisen</string>
+
+    <string name="galt">Æsj! Noe gikk galt. Kontakt gjerne utvikleren om hvilket stopp du søkte på</string>
+
+    <string name="ingenreiser">Stoppet har ingen reiser denne dagen</string>
+
+    <string name="idag">I dag</string>
+
+    <string name="imorgen">I morgen</string>
+
+    <string name="velgdato">Velg dato</string>
+
+    <string name="update">Rutetidene er ikke oppdaterte, så feil kan oppstå. En oppdatering burde være tilgjengelig.</string>
+
+    <string name="nonlive">Ingen avganger eller rutetider blir oppdatert i sanntid. Derfor tar ikke appen hensyn til forsinkelser. Hvis rutetidene ikke er oppdaterte kan feil oppstå på visse ruter. Du kan sjekke om de er oppdaterte nederst i start-menyen.</string>
+
+    <string name="rutetideneerg">Rutetidene er gyldige til</string>
+
+    <string name="fra">fra</string>
+
+    <string name="til">til</string>
+
+    <string name="sisteoppdatering">Denne appen er avviklet</string>
+
+
+
+</resources>

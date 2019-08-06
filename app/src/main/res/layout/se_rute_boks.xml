@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerHorizontal="true"
+    android:layout_centerInParent="false"
+    android:layout_gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/card"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="2dp"
+        android:clickable="false">
+
+        <RelativeLayout
+            android:id="@+id/relo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp">
+
+            <TextView
+                android:id="@+id/txtNr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="false"
+                android:layout_alignParentEnd="false"
+                android:layout_alignParentTop="false"
+                android:layout_centerInParent="false"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:text="1."
+                android:textSize="17sp"
+                android:typeface="monospace" />
+
+            <ImageView
+                android:id="@+id/sign"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="0dp"
+                android:layout_toRightOf="@+id/txtNr"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                app:srcCompat="@drawable/signpost" />
+
+            <TextView
+                android:id="@+id/txtMain"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="false"
+                android:layout_centerInParent="true"
+                android:layout_marginTop="0dp"
+                android:layout_toRightOf="@+id/sign"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:paddingLeft="0dp"
+                android:paddingRight="0dp"
+                android:text="Siggerud (skolen)" />
+
+            <TextView
+                android:id="@+id/txtSone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="0dp"
+                android:layout_toRightOf="@+id/txtMain"
+                android:text="2S"
+                android:typeface="monospace" />
+
+            <TextView
+                android:id="@+id/txtIntervall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="5dp"
+                android:layout_toRightOf="@+id/txtSone"
+                android:text="+3"
+                android:textStyle="italic"
+                android:typeface="monospace" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>
