@@ -1,15 +1,15 @@
 # Rutetider
 
 This is a huge project that I developed in the summer of 2017. It is a published app making it possible to
-look up timetables, bus/train/tram/subway/boat routes entirely without an internet connection. It believe it is still the only Norwegian
+look up timetables, bus/train/tram/subway/boat routes and more entirely without an internet connection. It believe it is still the only Norwegian
 travel app with these offline capabilities. This is done by downloading and heavily refactoring/compressing the Ruter© published
 General Transit Feed Specification (GTFS) (by Google Transit) database.
 
-<img src="https://raw.githubusercontent.com/sthoresen/Rutetider/master/Screenshots/Main%20menu.webp?token=AHOFNHAYJYEZNZSE35WFVDK5JF2T2" width="168" height="299"> <img src="https://raw.githubusercontent.com/sthoresen/Rutetider/master/Screenshots/Lines2.webp?token=AHOFNHHQKES3RLR5KZU4LXK5JF2R6" width="168" height="299">
+<img src=Screenshots/MainMenu.webp width="168" height="299"> <img src=Screenshots/Lines2.webp width="168" height="299">
 
 # App status
 
-The app was released in August 2017, have 100+ downloads and is rated 5 star. In march 2018 Ruter shut down their API portal "Ruter Labs", and while Entur©
+The app was released in August 2017, have 100+ downloads and is rated 5 star. In March 2018 Ruter shut down their API portal "Ruter Labs", and while Entur©
 now publishes useable NeTEx data, this data is in such a different format that it would require rebuilding many components of the app. As of
 now the project isn't updated to be compatible with the NeTEx data format, and I don't plan on fixing it in the near future as this project
 was mainly built for learning purposes.
