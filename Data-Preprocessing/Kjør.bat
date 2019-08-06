@@ -1,0 +1,2 @@
+javac *.java && java Step001v2 && java Step1 && java Step2 && java Step3 && java Step4 && java Step5 && java Step6 && java Step7 && java Step8 && java Step9 && java Step10 && java Step11RelTid && java Step12  && java Step13 && java Step14 &&  java LesBareRuteTider
+pause
