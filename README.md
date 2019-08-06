@@ -5,7 +5,7 @@ look up timetables, bus/train/tram/subway/boat routes entirely without an intern
 travel app with these offline capabilities. This is done by downloading and heavily refactoring/compressing the Ruter© published
 General Transit Feed Specification (GTFS) (by Google Transit) database.
 
-<img src="https://raw.githubusercontent.com/sthoresen/Rutetider/master/Screenshots/Main%20menu.webp?token=AHOFNHAYJYEZNZSE35WFVDK5JF2T2" width="168" height="299"> <img src="https://raw.githubusercontent.com/sthoresen/Rutetider/master/Screenshots/Lines2.webp?token=AHOFNHHQKES3RLR5KZU4LXK5JF2R6" width="168" height="299">
+<img src=Screenshots/MainMenu.webp width="168" height="299"> <img src=Screenshots/Lines2.webp width="168" height="299">
 
 # App status
 
