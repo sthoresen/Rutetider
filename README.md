@@ -3,7 +3,7 @@
 This is a huge project that I developed in the summer of 2017. It is a published app making it possible to
 look up timetables, bus/train/tram/subway/boat routes and more entirely without an internet connection. It believe it is still the only Norwegian
 travel app with these offline capabilities. This is done by downloading and heavily refactoring/compressing the Ruter© published
-General Transit Feed Specification (GTFS) (by Google Transit) database.
+General Transit Feed Specification (GTFS) (by Google Transit) database (For detailes see the README in _Data-Preprocessing_).
 
 <img src=Screenshots/MainMenu.webp width="168" height="299"> <img src=Screenshots/Lines2.webp width="168" height="299">
 
