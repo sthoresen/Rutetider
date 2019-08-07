@@ -18,3 +18,5 @@ And much more! I could have continued to refactor the data but a 10 MB dataset i
 # Code structure, performance and commenting
 
 This project was written for my eyes only with no performance or readability goals so it is propper spaghetti. A number of steps are likely redundant as the code was written on the go with little planning or refactoring along the way. Keep in mind that this program was designed specifically to work with Ruters implementation of the GTFS specification, so it won't work without modification on every GTFS dataset.
+
+The basic structure of the program is that Step1.java does a series of related changes to the datastructure and outputs the result in "step1.txt". Step2.java now reads this data, does its own modifications and then saves this in "step2.txt". This way, if there is introduced any defects in the data it is easy to identify what part of the system caused it. 
