@@ -21,6 +21,8 @@ was mainly built for learning purposes.
 * How to use Android Studio to build apps.
 * How to manage (and not to manage!) a sizeable (7000 lines of code) app project.
 * Data preprocessing/cleaning/compressing (this part is actually half the project)
+* Furthered my knowledge of Java.
+* Basic XML skills.
 * Software testing/bugfixing and logging
 * Maintaining and continously updating the app
 *  .txt based database I/O
