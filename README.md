@@ -19,7 +19,7 @@ was mainly built for learning purposes.
 # What I learned
 
 * How to use Android Studio to build apps
-* How to manage (and not to manage!) a sizeable (7000 lines of code) app project
+* How to manage (and not to manage!) a sizeable (**7000 lines of code**) app project
 * Data preprocessing/cleaning/compressing (this part is actually half the project)
 * Furthered my knowledge of Java
 * Basic XML skills
