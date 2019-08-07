@@ -11,7 +11,7 @@ General Transit Feed Specification (GTFS) (by Google Transit) database.
 
 The app was released in August 2017, have 100+ downloads and is rated 5 star. In March 2018 Ruter shut down their API portal "Ruter Labs", and while Entur©
 now publishes useable NeTEx data, this data is in such a different format that it would require rebuilding many components of the app. As of
-now the project isn't updated to be compatible with the NeTEx data format, and I don't plan on fixing it in the near future as this project
+now the project isn't updated to be compatible with the NeTEx data format, and I don't plan on fixing it in the immediate future as this project
 was mainly built for learning purposes.
 
 * Google play link: https://play.google.com/store/apps/details?id=com.olivernord.android.avgangeroffline&hl
